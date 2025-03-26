@@ -3,46 +3,64 @@
 <head>
   <title>Quiz Medyczny</title>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
-    h1 { color: #2c3e50; }
-    .button {
-      display: inline-block;
-      padding: 15px 30px;
-      background: #3498db;
-      color: white;
-      border-radius: 5px;
-      text-decoration: none;
-      margin: 20px 10px 20px 0;
-      font-size: 18px;
+    body { font-family: Arial, sans-serif; margin: 20px; max-width: 800px; margin: 0 auto; line-height: 1.6; }
+    h1 { color: #2c3e50; text-align: center; }
+    select, input, button { font-size: 16px; padding: 10px; margin: 10px 0; }
+    select, input { width: 100%; border: 1px solid #ddd; border-radius: 5px; }
+    button { 
+      background: #3498db; color: white; border: none; cursor: pointer;
+      border-radius: 5px; width: 100%;
     }
-    .button:hover { background: #2980b9; }
-    #quiz-container, #result-container { display: none; }
-    .progress-bar {
-      height: 20px;
-      background-color: #f5f5f5;
-      border-radius: 5px;
-      margin-bottom: 20px;
-    }
-    .progress-fill {
-      height: 100%;
-      background-color: #3498db;
-      border-radius: 5px;
-      width: 0%;
-      text-align: center;
-      color: white;
-    }
-    .question { margin-bottom: 20px; }
-    label {
+    button:hover { background: #2980b9; }
+    button:disabled { background: #95a5a6; cursor: not-allowed; }
+    .option {
       display: block;
-      padding: 10px;
-      margin: 5px 0;
+      padding: 12px;
+      margin: 10px 0;
       border: 1px solid #ddd;
       border-radius: 5px;
       cursor: pointer;
     }
-    label:hover { background-color: #f0f0f0; }
-    #loader { text-align: center; }
+    .option:hover { background-color: #f5f5f5; }
+    .progress-bar {
+      height: 20px;
+      background-color: #f0f0f0;
+      border-radius: 10px;
+      margin: 20px 0;
+      overflow: hidden;
+    }
+    .progress-fill {
+      height: 100%;
+      background-color: #3498db;
+      width: 0%;
+      transition: width 0.3s ease;
+      text-align: center;
+      color: white;
+      font-size: 12px;
+      line-height: 20px;
+    }
+    .question-box {
+      background-color: #f8f9fa;
+      border-left: 4px solid #3498db;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+    }
+    #message { color: #e74c3c; margin: 10px 0; }
+    #quiz-screen, #result-screen { display: none; }
+    .result-card {
+      background-color: white;
+      border-radius: 10px;
+      padding: 20px;
+      margin: 20px 0;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    @media (max-width: 600px) {
+      body { margin: 10px; }
+    }
   </style>
 </head>
 <body>
@@ -50,188 +68,229 @@
   
   <!-- Ekran startowy -->
   <div id="start-screen">
-    <p>Wybierz zestaw pytań:</p>
-    <div id="file-list">Ładowanie zestawów pytań...</div>
     <div>
-      <input type="text" id="nick" placeholder="Podaj swój nick" required>
-      <button class="button" onclick="startQuiz()">Rozpocznij Quiz</button>
+      <label for="file-select">Wybierz zestaw pytań:</label>
+      <select id="file-select">
+        <option value="">-- Wybierz zestaw --</option>
+        <option value="pytania_1.json">Zestaw 1</option>
+        <option value="pytania_2.json">Zestaw 2</option>
+        <option value="pytania_3.json">Zestaw 3</option>
+        <option value="pytania_4.json">Zestaw 4</option>
+        <option value="pytania_5.json">Zestaw 5</option>
+        <option value="pytania_6.json">Zestaw 6</option>
+        <option value="pytania_7.json">Zestaw 7</option>
+        <option value="pytania_8.json">Zestaw 8</option>
+        <option value="pytania_9.json">Zestaw 9</option>
+        <option value="pytania_10.json">Zestaw 10</option>
+        <option value="pytania_11.json">Zestaw 11</option>
+        <option value="pytania_12.json">Zestaw 12</option>
+        <option value="pytania_13.json">Zestaw 13</option>
+        <option value="pytania_14.json">Zestaw 14</option>
+        <option value="pytania_15.json">Zestaw 15</option>
+        <option value="pytania_16.json">Zestaw 16</option>
+        <option value="pytania_17.json">Zestaw 17</option>
+        <option value="pytania_18.json">Zestaw 18</option>
+        <option value="pytania_19.json">Zestaw 19</option>
+        <option value="pytania_20.json">Zestaw 20</option>
+        <option value="pytania_21.json">Zestaw 21</option>
+        <option value="pytania_22.json">Zestaw 22</option>
+      </select>
     </div>
+    
+    <div>
+      <label for="nick">Twój nick:</label>
+      <input type="text" id="nick" placeholder="Wpisz swój nick">
+    </div>
+    
+    <div id="message"></div>
+    
+    <button onclick="startQuiz()">Rozpocznij Quiz</button>
   </div>
   
-  <!-- Quiz -->
-  <div id="quiz-container">
-    <div id="question-number"></div>
+  <!-- Ekran quizu -->
+  <div id="quiz-screen">
+    <div id="question-info" style="font-weight: bold;"></div>
+    
     <div class="progress-bar">
       <div id="progress-fill" class="progress-fill">0%</div>
     </div>
-    <div id="question" class="question"></div>
-    <div id="answers"></div>
-    <button class="button" onclick="submitAnswer()">Zatwierdź odpowiedź</button>
+    
+    <div id="question" class="question-box"></div>
+    
+    <div id="options"></div>
+    
+    <button id="next-btn" onclick="nextQuestion()" disabled>Następne pytanie</button>
   </div>
   
-  <!-- Wyniki -->
-  <div id="result-container">
+  <!-- Ekran wyników -->
+  <div id="result-screen">
     <h2>Twój wynik</h2>
-    <div id="result"></div>
-    <button class="button" onclick="location.reload()">Nowy Quiz</button>
+    <div id="result-display" class="result-card"></div>
+    <button onclick="backToStart()">Nowy Quiz</button>
   </div>
   
   <script>
-    // Globalne zmienne
-    let allFiles = {};
-    let currentQuiz = [];
-    let currentQuestionIndex = 0;
+    // Zmienne globalne
+    let questions = [];
+    let currentQuestion = 0;
     let score = 0;
     let selectedFile = '';
-    let selectedAnswer = '';
+    let selectedOption = null;
+    let userNick = '';
     
-    // Wczytaj pliki z pytaniami
-    async function loadFiles() {
-      try {
-        const response = await fetch('/pliki_pytan/index.json');
-        allFiles = await response.json();
-        
-        // Wyświetl listę plików
-        const fileList = document.getElementById('file-list');
-        let html = '';
-        
-        for (const fileName in allFiles) {
-          html += `<div>
-            <input type="radio" name="file" id="${fileName}" value="${fileName}">
-            <label for="${fileName}">${fileName} (${allFiles[fileName]} pytań)</label>
-          </div>`;
-        }
-        
-        fileList.innerHTML = html || 'Brak dostępnych plików z pytaniami.';
-      } catch (error) {
-        document.getElementById('file-list').innerHTML = 'Błąd wczytywania plików. Spróbuj odświeżyć stronę.';
-        console.error('Błąd:', error);
-      }
-    }
-    
-    // Rozpocznij quiz
-    async function startQuiz() {
-      const nick = document.getElementById('nick').value;
-      if (!nick) {
-        alert('Podaj swój nick!');
+    // Start quizu
+    function startQuiz() {
+      // Walidacja
+      selectedFile = document.getElementById('file-select').value;
+      userNick = document.getElementById('nick').value;
+      
+      if (!selectedFile) {
+        document.getElementById('message').innerText = 'Wybierz zestaw pytań!';
         return;
       }
       
-      // Sprawdź czy wybrano plik
-      const selectedFileRadio = document.querySelector('input[name="file"]:checked');
-      if (!selectedFileRadio) {
-        alert('Wybierz zestaw pytań!');
+      if (!userNick) {
+        document.getElementById('message').innerText = 'Wpisz swój nick!';
         return;
       }
       
-      selectedFile = selectedFileRadio.value;
+      document.getElementById('message').innerText = 'Ładowanie pytań...';
       
-      // Wczytaj wybrane pytania
-      try {
-        document.getElementById('start-screen').innerHTML = 'Ładowanie pytań...';
-        const response = await fetch(`/pliki_pytan/${selectedFile}`);
-        currentQuiz = await response.json();
-        
-        // Konwertuj 'poprawna' na string
-        currentQuiz.forEach(question => {
-          if (question.poprawna) {
-            question.poprawna = String(question.poprawna);
+      // Ładowanie pytań
+      fetch(selectedFile)
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Nie można załadować pliku z pytaniami');
           }
+          return response.json();
+        })
+        .then(data => {
+          questions = data;
+          // Nie konwertujemy "poprawna" - zostawiamy jako liczbę
+          
+          // Reset quizu
+          currentQuestion = 0;
+          score = 0;
+          
+          // Pokazanie ekranu quizu
+          document.getElementById('start-screen').style.display = 'none';
+          document.getElementById('quiz-screen').style.display = 'block';
+          
+          // Pokaż pierwsze pytanie
+          showQuestion();
+        })
+        .catch(error => {
+          document.getElementById('message').innerText = 'Błąd: ' + error.message;
         });
-        
-        // Pokaż quiz
-        document.getElementById('start-screen').style.display = 'none';
-        document.getElementById('quiz-container').style.display = 'block';
-        
-        showQuestion();
-      } catch (error) {
-        document.getElementById('start-screen').innerHTML = 'Błąd wczytywania pytań. <button onclick="location.reload()">Spróbuj ponownie</button>';
-        console.error('Błąd:', error);
-      }
     }
     
-    // Pokaż aktualne pytanie
+    // Wyświetlenie pytania
     function showQuestion() {
-      const question = currentQuiz[currentQuestionIndex];
-      
-      // Aktualizuj numer pytania i pasek postępu
-      document.getElementById('question-number').textContent = `Pytanie ${currentQuestionIndex + 1} z ${currentQuiz.length}`;
-      
-      const progressPercent = (currentQuestionIndex / currentQuiz.length * 100).toFixed(1);
-      const progressBar = document.getElementById('progress-fill');
-      progressBar.style.width = `${progressPercent}%`;
-      progressBar.textContent = `${progressPercent}%`;
-      
-      // Pokaż pytanie
-      document.getElementById('question').textContent = question.tresc;
-      
-      // Pokaż odpowiedzi
-      let answersHtml = '';
-      question.odpowiedzi.forEach((answer, index) => {
-        answersHtml += `
-          <label>
-            <input type="radio" name="answer" value="${answer}" onclick="selectedAnswer=this.value">
-            ${answer}
-          </label>
-        `;
-      });
-      
-      document.getElementById('answers').innerHTML = answersHtml;
-      selectedAnswer = ''; // Zresetuj wybraną odpowiedź
-    }
-    
-    // Prześlij odpowiedź
-    function submitAnswer() {
-      if (!selectedAnswer) {
-        alert('Wybierz odpowiedź!');
+      if (currentQuestion >= questions.length) {
+        showResults();
         return;
       }
       
-      const question = currentQuiz[currentQuestionIndex];
-      const correctAnswerIndex = parseInt(question.poprawna) - 1;
-      const correctAnswer = question.odpowiedzi[correctAnswerIndex];
+      // Reset wyboru
+      selectedOption = null;
+      document.getElementById('next-btn').disabled = true;
       
-      // Sprawdź czy odpowiedź jest poprawna
-      if (selectedAnswer === correctAnswer) {
+      const question = questions[currentQuestion];
+      
+      // Aktualizacja nagłówka
+      document.getElementById('question-info').innerText = `Pytanie ${currentQuestion + 1} z ${questions.length}`;
+      
+      // Aktualizacja paska postępu
+      const percent = (currentQuestion / questions.length) * 100;
+      const progressFill = document.getElementById('progress-fill');
+      progressFill.style.width = percent + '%';
+      progressFill.innerText = Math.round(percent) + '%';
+      
+      // Wyświetlenie pytania
+      document.getElementById('question').innerText = question.tresc;
+      
+      // Wyświetlenie opcji
+      const optionsContainer = document.getElementById('options');
+      optionsContainer.innerHTML = '';
+      
+      question.odpowiedzi.forEach((option, index) => {
+        const optionElement = document.createElement('div');
+        optionElement.className = 'option';
+        optionElement.innerText = option;
+        optionElement.onclick = function() {
+          selectOption(index);
+        };
+        optionsContainer.appendChild(optionElement);
+      });
+    }
+    
+    // Wybór odpowiedzi
+    function selectOption(index) {
+      // Zaznaczenie wybranej opcji
+      const options = document.querySelectorAll('.option');
+      options.forEach(opt => opt.style.backgroundColor = '');
+      options[index].style.backgroundColor = '#e8f4fc';
+      
+      selectedOption = index;
+      document.getElementById('next-btn').disabled = false;
+    }
+    
+    // Przejście do następnego pytania
+    function nextQuestion() {
+      if (selectedOption === null) {
+        return;
+      }
+      
+      // Sprawdzenie poprawności
+      const question = questions[currentQuestion];
+      
+      // "poprawna" jest liczbą od 1 do 4, ale JavaScript indeksuje od 0,
+      // więc odejmujemy 1, aby uzyskać prawidłowy indeks
+      const correctIndex = question.poprawna - 1;
+      
+      if (selectedOption === correctIndex) {
         score++;
       }
       
-      // Przejdź do następnego pytania lub pokaż wynik
-      currentQuestionIndex++;
-      
-      if (currentQuestionIndex < currentQuiz.length) {
-        showQuestion();
-      } else {
-        showResult();
-      }
+      // Przejście do następnego pytania
+      currentQuestion++;
+      showQuestion();
     }
     
-    // Pokaż wynik
-    function showResult() {
-      document.getElementById('quiz-container').style.display = 'none';
-      document.getElementById('result-container').style.display = 'block';
+    // Wyświetlenie wyników
+    function showResults() {
+      document.getElementById('quiz-screen').style.display = 'none';
+      document.getElementById('result-screen').style.display = 'block';
       
-      const percent = Math.round((score / currentQuiz.length) * 100);
-      let color = "#e74c3c";
-      let message = "Warto powtórzyć materiał.";
+      const percent = Math.round((score / questions.length) * 100);
+      let resultText, resultColor;
       
       if (percent >= 70) {
-        color = "#27ae60";
-        message = "Doskonale!";
+        resultText = "Doskonale!";
+        resultColor = "#27ae60";
       } else if (percent >= 50) {
-        color = "#f39c12";
-        message = "Całkiem nieźle.";
+        resultText = "Całkiem nieźle!";
+        resultColor = "#f39c12";
+      } else {
+        resultText = "Warto powtórzyć materiał.";
+        resultColor = "#e74c3c";
       }
       
-      document.getElementById('result').innerHTML = `
-        <p>Zdobyłeś <span style="font-size:24px; font-weight:bold; color:${color}">${score} / ${currentQuiz.length}</span> punktów (${percent}%)</p>
-        <p style="color:${color}">${message}</p>
+      document.getElementById('result-display').innerHTML = `
+        <p>Użytkownik: <strong>${userNick}</strong></p>
+        <p>Twój wynik: <span style="font-size: 28px; font-weight: bold; color: ${resultColor}">${score} / ${questions.length}</span></p>
+        <p>Procent poprawnych odpowiedzi: ${percent}%</p>
+        <p style="color: ${resultColor}; font-size: 20px;">${resultText}</p>
         <p>Plik z pytaniami: ${selectedFile}</p>
       `;
     }
     
-    // Załaduj pliki przy starcie
-    loadFiles();
+    // Powrót do ekranu startowego
+    function backToStart() {
+      document.getElementById('result-screen').style.display = 'none';
+      document.getElementById('start-screen').style.display = 'block';
+      document.getElementById('message').innerText = '';
+    }
   </script>
 </body>
 </html>
