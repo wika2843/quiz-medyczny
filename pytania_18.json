@@ -1,0 +1,302 @@
+[
+    {
+        "tresc": "402. Pełen zakres działań pielęgniarki składający się na proces edukacji pacjenta to:",
+        "odpowiedzi": [
+            "A.przekazanie wiedzy na temat schorzenia, nauczenie właściwej samoopieki, wskazanie zasad odpowiedniej diety, kontrola osiągniętych wyników pracy",
+            "B.przeprowadzenie wywiadu, zaplanowanie i wybór obszarów edukacji, przekazanie wiedzy choremu",
+            "C.diagnoza co do potrzeb edukacji, wybór obszaru edukacji i planu działania, realizacja i ocena działań",
+            "D.opracowanie zasad edukacji, wdrożenie typowych obszarów edukacji, nauka właściwego trybu życia, wskazanie metod porzucenia nałogów, nauczenie sposobów radzenia sobie ze stresem"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "492. Statyny to grupa leków stosowana w:",
+        "odpowiedzi": [
+            "A.moczówce prostej",
+            "B.hipercholesterolemi",
+            "C.hipoglikemii",
+            "D.dyselektrolitemiach "
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "574. Do pozawerbalnych technik  zbierania danych niezbędnych do postawienia diagnozy indywidualnej podopiecznego zalicza się:",
+        "odpowiedzi": [
+            "A.analizę danych z dokumentacji, badania fizykalne",
+            "B.obserwację i lustrację środowiskową",
+            "C.wywiad, rozmowa",
+            "D.poprawne są odpowiedzi a i b"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "452.Unikanie bliższych kontaktów emocjonalnych i społecznych, tendencja do samotnictwa i izolacji, brak empatii, ograniczone zdolności do wyrażania uczuć i odczuwania przyjemności, skłonność do fantazjowania, introspekcji i ucieczki we własny świat przeżyć wewnętrznych, reakcje lękowe lub ksobne w relacjach międzyosobowych, to podstawowe cechy osobowości:",
+        "odpowiedzi": [
+            "A.dyssocjalnej",
+            "B.schizoidalnej",
+            "C.pogranicznej (borderline personality)",
+            "D.histrionicznej"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "94. Zalecenie spożycia 2 porcji ryb, w tym jednej porcji ryby tłustej lub 250 mg/doba EPA+DHA dotyczy:",
+        "odpowiedzi": [
+            "A.osób dorosłych",
+            "B.kobiet w ciąży",
+            "C.dzieci od 2 roku życia oraz młodzieży",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "605. Czy stosowanie produktu leczniczego /leku / poza jego wskazaniami określonymi w jego Charakterystyce Produktu Leczniczego (ChPL), czyli z zastosowaniem, tzw. terapii pozawskazaniowej /off-label / jest:",
+        "odpowiedzi": [
+            "A.niezgodne z obowiązującym prawem",
+            "B.w niektórych tylko terapiach jest zgodne z prawem",
+            "C.jest prawnie dopuszczalne gdyż ustawa o zawodzie lekarza stanowi iż ma on obowiązek wykonywać zawód zgodnie ze wskazaniami aktualnej wiedzy medycznej, zaś swobodę wyboru postepowania daje mu także Kodeks Etyki Lekarskiej, zaś Deklaracja Helsińska upoważnia go do zastosowania interwencji o nieudowodnionej skuteczności jeśli daje ono nadzieję na ratowania życie, przywrócenie zdrowia lub przyniesienie ulgi",
+            "D.skutkujące nadmiernym ryzykiem prawnym"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "286. D o kategorii noworodków z niewiarygodnie małą urodzeniową masą ciała (ILBW) zaliczamy noworodki z masą ciała:",
+        "odpowiedzi": [
+            "A.750 gramów",
+            "B.pomiędzy 750 - 1000 gramów",
+            "C.poniżej 500 gramów",
+            "D.pomiędzy 501 - 749 gramów"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "607. Celem strategicznym Narodowego Programu Zdrowia na lata 2021-2025 jest:",
+        "odpowiedzi": [
+            "A.poprawa zdrowia i związanej z nim jakości życia ludności",
+            "B.zwiększenie liczby lat przeżytych w zdrowiu oraz zmniejszenie społecznych nierówności w zdrowiu",
+            "C.poprawa dostępności świadczeń medycznych",
+            "D.zmiana stylu życia ludności"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "484. Charakterystyka Produktu Leczniczego:",
+        "odpowiedzi": [
+            "A. ma określoną strukturę",
+            "B. jest rzetelnym źródłem informacji o leku",
+            "C.dla każdego zarejestrowanego w Polsce leku jest dostępna na stronie Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (URPL)",
+            "D.wszystkie odpowiedzi są prawdziwe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "372. Oparzenia obejmują pełną grubość skóry. Powierzchnia skóry jest sucha o białawym, czarnym lub brązowym zabarwieniu. Ból nie zawsze występuje ze względu na uszkodzenie receptorów bólowych. Na skórze w wyniku oparzeń pozostają blizny. Często są wykonywane przeszczepy skóry.",
+        "odpowiedzi": [
+            "A.oparzeń III stopnia",
+            "B.oparzeń I stopnia",
+            "C.oparzeń II stopnia",
+            "D.oparzeń IV stopnia"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "534. Do błędów w profilaktyce przeciwodleżynowej zalicza się stosowanie:",
+        "odpowiedzi": [
+            "A.materacy zmiennociśnieniowych",
+            "B.fizjoterapii",
+            "C.stabilizacji pozycji chorego przy użyciu podpórek",
+            "D.długich przerw w zmianie ułożenia chorego"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "90.Określenie „Wdowi Garb” oznacza:",
+        "odpowiedzi": [
+            "A.kifoze",
+            "B.skolioze",
+            "C.lordoze",
+            "D.zmiane zwyrodnieniową kręgosłupa"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "377. W ocenie odsetka oparzonej powierzchni dokonywanej przy użyciu reguły \"dziewiątek\" Wallace'a, obszary anatomiczne wynoszą odpowiednio:",
+        "odpowiedzi": [
+            "A.9 % głowa, po 9 % przód i tył tułowia, po 9% kończyny górne, po 9 % kończyny dolne, 9 % okolica krocza",
+            "B.9 % głowa, po 18 % przód i tył tułowia, po 9 % kończyny górne, po 18 % kończyny dolne, 1% okolica krocza",
+            "C.dłoń osoby poszkodowanej (poparzonej) stanowi 9 % powierzchni ciała",
+            "D.głowa, po 18 % przód i tył tułowia, po 9% kończyny górne, po 18 % kończyny dolne, 1% okolica krocza"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "336. Strażnikiem genomu nazywamy:",
+        "odpowiedzi": [
+            "A.PSA",
+            "B.białko C-reaktywne",
+            "C.TNF-α",
+            "D.białko p53"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "541. Zastosowanie podczas pomiaru ciśnienia tętniczego krwi zbyt wąskiego mankietu prowadzi do:",
+        "odpowiedzi": [
+            "A.obniżenia wartości ciśnienia rozkurczowego",
+            "B.podwyższenia wartości ciśnienia skurczowego",
+            "C.podwyższenia uzyskanych wartości ciśnienia rozkurczowego",
+            "D.niemożności wysłuchania tonów Korotkowa"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "357. Niedrożność to stan, w którym dochodzi do zatrzymania pasażu treści pokarmowej przez przewód pokarmowy. Przyczyną niedrożności mechanicznej może być:",
+        "odpowiedzi": [
+            "A.guz, np. nowotworowy lub guz zapalny",
+            "B.zrosty, skręt jelit",
+            "C.przyczyny neurogenne",
+            "D.Prawidłowa odpowiedź a i b"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "399. Zadania diagnostyczne w pracy pielęgniarki to:",
+        "odpowiedzi": [
+            "A.pomiar podstawowych parametrów życiowych, przygotowanie chorego do badań, bieżące instruowanie",
+            "B.przeprowadzanie wywiadu, wybór właściwych środków do pielęgnacji skóry, pobieranie materiału do badań diagnostycznych",
+            "C.interpretacja wyników badań diagnostycznych, informowanie o przygotowaniu do badań diagnostycznych, pomoc w zaspokajaniu potrzeb biologicznych",
+            "D.kontrola tętna, obserwacja skóry chorego, analiza dokumentacji"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "524.Obniżona poniżej normy wartość temperatury ciała jest określana jako:",
+        "odpowiedzi": [
+            "A.hipotonia",
+            "B.hipertermia",
+            "C.hipertonia",
+            "D.hipotermia"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "612. Ewaluacja to:",
+        "odpowiedzi": [
+            "A.zmiana dokonana w programie promocji zdrowia",
+            "B.zasada konstruowania programu promocji zdrowia",
+            "C.oceny skuteczności programu promocji zdrowia",
+            "D.wdrażanie w życie programu promocji zdrowia"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "562. Na etapie gromadzenia danych w procesie pielęgnowania pielęgniarka POZ:",
+        "odpowiedzi": [
+            "A.samodzielnie gromadzi dane odnośnie rodziny",
+            "B.korzysta z dokumentacji pacjenta w POZ",
+            "C.prowadzi wywiad środowiskowy w miejscu zamieszkania",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "77.Wskaż błędne określenie nazwy nerwu czaszkowego:",
+        "odpowiedzi": [
+            "A.nerw V – trójdzielny",
+            "B.nerw IV – dodatkowy",
+            "C.nerw VI – odwodzący",
+            "D.nerw IX – językowo – gardłowy"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "620. Celem działań niezbędnych do utrzymania zdrowia, zawartych w \"Karcie Ottawskiej\" jest:",
+        "odpowiedzi": [
+            "A.poznanie potrzeb zdrowotnych jednostek",
+            "B.poznanie potrzeb zdrowotnych poszczególnych grup społecznych",
+            "C.zapewnienie ludziom jednakowych możliwości w osiąganiu pełnego potencjału zdrowia",
+            "D.zwiększenie zakresu wiedzy o czynnościach oddziałujących na stan zdrowia"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "218. \tFunkcje zawodowe pielęgniarki Rzeczypospolitej Polskiej wyszczególnione są:",
+        "odpowiedzi": [
+            "A.w roli zawodowej jako roli społecznej związanej z wykonywaniem zawodu pielęgniarki/ położnej",
+            "B.ustawie o zawodzie pielęgniarki i położnej, która określa zadaniach i obowiązkach pielęgniarki",
+            "C.misji pielęgniarstwa/ położnictwa",
+            "D.wszystkie odpowiedzi są prawdziwe"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "273.Które komórki nie występują w strukturze kości",
+        "odpowiedzi": [
+            "A.osteoklasty",
+            "B.osteoblasty",
+            "C.osteofity",
+            "D.osteocyty"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "116. Główne konsekwencje zdrowotne związane z otyłością to:",
+        "odpowiedzi": [
+            "A.cukrzyca typu 2",
+            "B.cukrzyca typu 1",
+            "C.nadciśnienie tętnicze",
+            "D.odpowiedzi a i c są poprawne"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "654.Opiekując się pacjentem zakażonym drobnoustrojem Klebsiella pneumoniae MBL należy pamiętać o:",
+        "odpowiedzi": [
+            "A.myciu rąk wodą z mydłem",
+            "B.dezynfekcji ręce",
+            "C.myciu i następnie dezynfekcji",
+            "D.wszystkie odpowiedzi są prawdziwe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "203. Proces pielęgnowania jest:",
+        "odpowiedzi": [
+            "A.podstawą wykonywania zawodu pielegniarki i położnej w Polsce",
+            "B.nie stanowi podstawy zawodu pielegniarki i połoznej w polsce",
+            "C.nieobowiązkowy",
+            "D.żadna odpowiedź nie jest prawidłowa"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "408. Prowadząc edukację pacjenta z rozpoznaną astmą pielęgniarka powinna przekazać informacje dotyczące:",
+        "odpowiedzi": [
+            "A.zaprzestania palenia, spędzania czasu wolnego w górach, unikania ukąszeń owadów",
+            "B.gdzie szukać pomocy medycznej, różnicy między lekami doraźnymi a lekami kontrolującymi, obniżenia masy ciała",
+            "C.istoty choroby, używania inhalatorów, objawów sugerujących pogorszenie astmy",
+            "D.odpowiedzi a i c są prawidłowe"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "135. U 76-letniej pacjentki z zapaleniem płuc występuje wysoka gorączka, brak apetytu, osłabienie. Które z wymienionych działań będą najważniejsze?",
+        "odpowiedzi": [
+            "A.utrzymanie czystości skóry, karmienie pacjenta, obserwacja",
+            "B.regularne podawanie leków, karmienie chorego, dbanie o wypróżnienia",
+            "C.zapewnienie bezpieczeństwa, wietrzenie sali, dbanie o wypróżnienia",
+            "D.obniżenie temperatury, ułożenie w pozycji półwysokiej, podawanie płynów"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "322. Objawami zespołu popunkcyjnego są:",
+        "odpowiedzi": [
+            "A.ból głowy zmniejszający się po pionizacji, uczucie gorąca, wymioty",
+            "B.ból okolicy krzyżowej, trudność w oddaniu moczu, gorączka",
+            "C.drżenie, uczucie gorąca, wzmożona potliwość",
+            "D.ból głowy po pionizacji, nudności, wymioty, ból okolicy krzyżowej"
+        ],
+        "poprawna": 3
+    }
+]

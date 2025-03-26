@@ -1,0 +1,302 @@
+[
+    {
+        "tresc": "641.Bakteriuria bezobjawowa dotyczy:",
+        "odpowiedzi": [
+            "A.pacjentów hospitalizowanych",
+            "B.pacjentów z założonym cewnikiem moczowym",
+            "C.pacjentów u których w posiewie moczu jest powyżej 10 do 5 CFU/ml",
+            "D.prawidłowe odpowiedzi b i c"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "387. Pacjent uczulony na Dolargan i Penicylinę, po zabiegu operacyjnym wymaga podania leku przeciwbólowego. Wskaż leki możliwe do podania:",
+        "odpowiedzi": [
+            "A.Pyralgina",
+            "B.Perfalgan",
+            "C.Mieszanka Lityczna",
+            "D.prawidłowe a i b"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "552. Przed, którym z wymienionych badań podaję się histaminę (środek pobudzający wydzielanie):",
+        "odpowiedzi": [
+            "A.kolonoskopią",
+            "B.rektoskopią",
+            "C.zgłębnikowaniem żołądka",
+            "D.zgłębnikowaniem dwunastnicy"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "566. Czynniki istniejące w rodzinie, które podlegają znacznej, bezpośredniej modyfikacji w  działaniu pielęgniarki POZ mieszczą się głównie w:",
+        "odpowiedzi": [
+            "A.obszarze zachowań zdrowotnych i stylu życia",
+            "B.czynnikach środowiskowych",
+            "C.czynnikach genetycznych",
+            "D.zaburzeniach w komunikowaniu"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "493. Działanie spazmolitycznie wykazuje:",
+        "odpowiedzi": [
+            "A.butylobromek hioscyny, papaweryna",
+            "B.loperamid, drotaweryna",
+            "C.omeprazol, papaweryna",
+            "D.emetyna, butylobromek skopolaminy"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "2.Stawy występujące w czaszce to:",
+        "odpowiedzi": [
+            "A.stawy międzykręgowe i ciemiączko przednie",
+            "B.ciemiączko przednie i ciemiączko tylne",
+            "C.stawy skroniowo-żuchwowe",
+            "D.stawy skroniowo-żuchwowe i ciemiączko tylne"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "644.W przypadku drobnoustroju Clostidioides difficile zalecanym środkiem do dezynfekcji są:",
+        "odpowiedzi": [
+            "A.preparaty alkoholowe",
+            "B.środki na bazie wody utlenionej",
+            "C.preparaty działające na spory (formy przetrwalnikowe drobnoustrojów)",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "579. Pielęgniarstwo rodzinne jest działem pielęgniarstwa w podstawowej opiece zdrowotnej obejmującym opieką rodzinę:",
+        "odpowiedzi": [
+            "A.w środowisku zamieszkania, nauki i pracy",
+            "B.w sytuacji choroby i zagrożenia chorobą",
+            "C.poszczególnych jej członków w sytuacji zdrowia i choroby w środowisku ich życia oraz w warunkach ambulatoryjnych",
+            "D.w sytuacji zdrowia i zagrożenia chorobą w środowisku zamieszkania i pracy"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "164.Podstawową jednostką funkcjonalną nerki jest:",
+        "odpowiedzi": [
+            "A.nefron",
+            "B.kanaliki kręte",
+            "C.moczowody",
+            "D.cewka moczowa"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "34. Zespół zaburzeń oddechowych u dorosłych to:",
+        "odpowiedzi": [
+            "A.IRDS",
+            "B.DIC",
+            "C.ARDS",
+            "D.MODS"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "251. Zgodnie z aktualnymi przepisami dobowa norma czasu na wypoczynek wynosi co najmniej:",
+        "odpowiedzi": [
+            "A.11 h",
+            "B.8h",
+            "C.16 h",
+            "D.żadna z powyższych odpowiedzi nie jest prawidłowa"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "362. Triada Virchowa opisuje jedne z ważniejszych czynników predysponujących  do rozwoju  zakrzepicy żylnej. Do objawów Triady Virchowa należą:",
+        "odpowiedzi": [
+            "A.zwolnienie przepływu krwi w naczyniach (skutek długotrwałego unieruchomienia np. po złamaniu albo wynik ucisku żyły, np. przy nieprawidłowo założonym opatrunku gipsowym),",
+            "B.przewaga czynników pro zakrzepowych nad hamującymi proces krzepnięcia (zaburzenia krzepnięcia)",
+            "C.uszkodzenia ściany naczynia (skutek urazu zewnętrznego czy wewnętrznego np. podczas cewnikowania naczyń lub zabiegu operacyjnego)",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "180. Jednym z podstawowych zadań wymienionych w standardach postępowania pielęgniarki szkolnej jest:",
+        "odpowiedzi": [
+            "A.prowadzenie edukacji zdrowotnej",
+            "B.szczepienia",
+            "C.prowadzenie bilansów wsród dzieci i młodzieży",
+            "D.badanie wzroku"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "542. W przypadku zakażeń wewnątrzszpitalnych wyznacznikiem standardu opieki jest:",
+        "odpowiedzi": [
+            "A.stosowanie procedur diagnostycznych",
+            "B.stosowanie procedur terapeutycznych",
+            "C.stosowanie procedur pielęgniarskich",
+            "D.stosowanie wszystkich powyższych"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "518.Pielęgniarka zakłada cewnik do pęcherza moczowego u pacjenta, u którego wystąpiło duże zaleganie moczu. Aby nie spowodować wystąpienia tamponady pęcherza moczowego, pielęgniarka jednorazowo odprowadzi:",
+        "odpowiedzi": [
+            "A.300 – 500 ml moczu",
+            "B.600 – 800 ml moczu",
+            "C.900 – 1000 ml moczu",
+            "D.1000 – 1200 ml moczu"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "166.Pomiar ciśnienia tętniczego u pacjentów ambulatoryjnych wykonujemy najczęściej:",
+        "odpowiedzi": [
+            "A.na prawym przedramieniu, zapinając mankiet poniżej dołu łokciowego, na wysokości aorty brzusznej",
+            "B.na lewym ramieniu, zapinając mankiet powyżej dołu łokciowego, na wysokości serca",
+            "C.na lewym przedramieniu, zapinając mankiet poniżej dołu łokciowego, na wysokości pnia płucnego",
+            "D.na lewym udzie, zapinając mankiet poniżej stawu biodrowego, na wyrskości tętnicy ramiennej"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "397. Opis sylwetki psychofizycznej pacjenta powinien zawierać:",
+        "odpowiedzi": [
+            "A.diagnozę bieżącą chorego, opis wyglądu chorego, deficyt samoopieki, plan opieki",
+            "B.ocenę stanu chorego, sposobu funkcjonowania, zakres niezbędnej do realizacji przez pielęgniarkę pomocy i zasady jej stosowania",
+            "C.zakres koniecznych do wykonania zadań, ocenę wiedzy chorego na temat schorzenia, możliwe do realizacji obszary edukacji",
+            "D.opis stanu fizycznego i psychicznego, warunków socjoekonomicznych, trybu życia, rozpoznanych potrzeb i problemów chorego"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "61.Refleksja jako technika w wywiadzie jest stosowana w celu:",
+        "odpowiedzi": [
+            "A.nawiązania do głównego problemu pacjenta",
+            "B.wyjaśnienia sprzecznych informacji",
+            "C.utrzymania szybkich reakcji na zachowanie drugiej osoby",
+            "D.przedstawienia wyniku analizy wypowiedzi drugiej osoby"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "260.Jaki poziom natężenia infradźwięków nie oddziałuje negatywnie na organizm człowieka",
+        "odpowiedzi": [
+            "A.170 dB",
+            "B.140-160 dB",
+            "C.80-120 dB",
+            "D.120-140 dB"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "196. Główne przyczyny bólów brzucha u dzieci to:",
+        "odpowiedzi": [
+            "A.zakażenia pasożytnicze, alergie pokarmowe, rotawirusy",
+            "B.dyspepsja, zaparcia, kolka niemowlęca",
+            "C.zakażenie układu moczowego, zapalenie wyrostka robaczkowego",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "35. Zbyt wąski mankiet w czasie pomiaru ciśnienia tętniczego metodą pośrednią spowoduje, iż pomiar będzie:",
+        "odpowiedzi": [
+            "A.zaniżony",
+            "B.zawyżony",
+            "C. zaniżony lub adekwatny, w zależności od ułożenia kończyny",
+            "D.nie będzie różnicy w pomiarze"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "315. W celu zmniejszenia ryzyka omdlenia/upadku u pacjentów hipotonią ortostatyczną czego NIE należy zalecić pacjentowi:",
+        "odpowiedzi": [
+            "A.pozostania w pozycji siedzącej 20 – 30 minut po głównym posiłku",
+            "B.szybkie wstawanie, podnoszenie się zaraz po wypróżnieniu",
+            "C.wypicie ok. 2 szklanek płynów przed wstaniem z łóżka",
+            "D.przyjęcie najpierw pozycji siedzącej przez 5-10 minut przed wstaniem"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "29. Nadmierne przygięcie głowy u pacjenta poddawanego zabiegowi neurochirurgicznemu w pozycji siedzącej, może być przyczyną:",
+        "odpowiedzi": [
+            "A.upośledzenia odpływu żylnego",
+            "B.wzrostu ciśnienia śródczaszkowego",
+            "C.niedokrwienia rdzenia kręgowego",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "254. Wskaż, które z poniższych stwierdzeń określa korzyść dla pracodawcy z prawidłowo przeprowadzonego procesu adaptacji pielęgniarki:",
+        "odpowiedzi": [
+            "A.możliwość oceny kwalifikacji i samodzielności",
+            "B.zmniejszenie stresu z podjęciem pracy",
+            "C.zmniejszenie fluktuacji związanej z brakiem przystosowania do miejsca pracy",
+            "D.odpowiedź a i c jest prawidłowa"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "177. Wskaż zdanie prawdziwe:",
+        "odpowiedzi": [
+            "A. Stolce smoliste występują przy krwawieniu z dolnego odcinka przewodu pokarmowego, a stolce krwiste z górnego",
+            "B. Stolce smoliste występują przy krwawieniu z górnego odcinka przewodu pokarmowego, a stolce krwiste z dolnego",
+            "C. W obu przypadkach stolec jest krwisty",
+            "D.Wszystkie odpowiedzi są błędne"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "324. Chory na padaczkę musi wiedzieć, że powinien:",
+        "odpowiedzi": [
+            "A.korzystać z długich spacerów i wycieczek pieszych",
+            "B.przyjmować regularnie zalecone leki",
+            "C.prowadzić uregulowanego trybu życia",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "267.Kosteczki słuchowe są ułożone (zaczynając od zewnątrz) w następującej kolejności",
+        "odpowiedzi": [
+            "A.strzemiączko, młoteczek, kowadełko",
+            "B.młoteczek, kowadełko, strzemiączko",
+            "C.kowadełko, strzemiączko, młoteczek",
+            "D.młoteczek, strzemiączko, kowadełko"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "344.Wirusowe zapalenie wątroby, na które w szczególności narażeni są pracownicy ochrony zdrowia to:",
+        "odpowiedzi": [
+            "A.WZW C; którego przyczyną jest wirus zapalenia wątroby typu C",
+            "B.WZW A; którego przyczyną jest wirus zapalenia wątroby typu B",
+            "C.WZW B; którego przyczyną jest wirus zapalenia wątroby typu B",
+            "D.WZW A; którego przyczyną jest wirus hepatotropowy typu H"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "114. Dieta zalecana w chorobach sercowo-naczyniowych, w tym nadciśnieniu tętniczym to:",
+        "odpowiedzi": [
+            "A.dieta DASH",
+            "B.dieta ketogeniczna",
+            "C.dieta wysokobiałkowa",
+            "D.dieta płynna"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "65.Prawidłowa kolejność badania jamy brzusznej to:",
+        "odpowiedzi": [
+            "A.oglądanie, palpacja, osłuchiwanie, opukiwanie",
+            "B.osłuchiwanie, opukiwanie, oglądanie, palpacja",
+            "C.oglądanie, palpacja, opukiwanie, osłuchiwanie",
+            "D.oglądanie, osłuchiwanie, opukiwanie, palpacja"
+        ],
+        "poprawna": 3
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "tresc": "142. Za ojca etyki uważa się:",
+        "odpowiedzi": [
+            "A.Schelera",
+            "B.Maslowa",
+            "C.Sokratesa",
+            "D.Św. Tomasza z Akwinu"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "404. Pielęgniarka, realizując zadania edukacyjne wobec pacjenta z czynną chorobą wrzodową, udziela informacji dotyczących:",
+        "odpowiedzi": [
+            "A.sposobów radzenia sobie ze stresem, przeciwwskazań dotyczących spożywania szczególnie wysokoprocentowego alkoholu, fast-foodów, obfitych posiłków",
+            "B.zalecanego spożywania surowych owoców i warzyw, niewskazanego głębokiego pochylania się do przodu",
+            "C.domowych sposobów łagodzenia dolegliwości, np. spożywania siemienia lnianego oraz przeciwwskazań do stosowania używek: nikotyny, kawy, alkoholu (szczególnie niskoprocentowego)",
+            "D.przeciwwskazań w zażywaniu NLPZ oraz zalecanego wypijania dużych ilości mleka, które łagodzi dolegliwości"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "175. Które z poniższych określeń dotyczy wyłonionej przetoki jelita cienkiego?",
+        "odpowiedzi": [
+            "A.kolostomia",
+            "B.ileostomia",
+            "C.urostomia",
+            "D.żadna z powyższych"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "206. Test potowy Wescor jest wykorzystywany przy diagnostyce takiego schorzenia jak:",
+        "odpowiedzi": [
+            "A.Mukowiscydoza",
+            "B.Helicobacter pylori",
+            "C.Fenyloketonuria",
+            "D.Borelioza"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "370. Wskaż najczęstsze przyczyny krwawienia z przewodu pokarmowego o lokalizacji powyżej więzadła Treitza",
+        "odpowiedzi": [
+            "A.wrzód trawienny żołądka,  wrzód trawienny dwunastniczy, wrzodziejące zapalenie jelit",
+            "B.wrzód trawienny dwunastniczy, ostra gastropatia krwotoczna - nadżerkowa, choroba Leśniowskiego Crohna",
+            "C.żylaki przełyku i żołądka, zespół Mallory’ego i Weissa, polipy odcinku kątnicy i okrężnicy",
+            "D.zespół Mallory’ego i Weissa, wrzód trawienny żołądka, wrzód trawienny dwunastniczy"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "415. Znając przebieg kliniczny nadciśnienia tętniczego pielęgniarka wie, że powikłaniem nadciśnienia nie może być:",
+        "odpowiedzi": [
+            "A.retinopatia",
+            "B.przyspieszenie rozwoju zmian miażdżycowych w tętnicach",
+            "C.nadreaktywność drzewa oskrzelowego",
+            "D.tętniak rozwarstwiający aorty"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "355. Objawami zespołu wstrząśnienia mózgu są:",
+        "odpowiedzi": [
+            "A.niepamięć wsteczna",
+            "B.nudności, wymioty",
+            "C.zaburzenia neurowegetatywne",
+            "D.wszystkie odpowiedzi są prawdziwe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "190. W jakich przypadkach wykonujemy kolonoskopię u dzieci?",
+        "odpowiedzi": [
+            "A.diagnostyka przyczyn bólowych brzucha",
+            "B.na żądanie rodzica",
+            "C.diagnostyka krwawień z przewodu pokarmowego",
+            "D.a i c prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "545. Trzeci etap procesu pielęgnowania zawiera następujące fazy:",
+        "odpowiedzi": [
+            "A.sprawdzenie gotowości pacjenta i pielęgniarki, realizacja planu",
+            "B.ustalenie celu, dobór metod, formułowanie planu",
+            "C.gromadzenie i analiza danych, ustalenie diagnozy",
+            "D.analizy danych i ustaleniu działań"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "417. Edukując pacjenta ze zdiagnozowaną białaczką w obszarze diety pielęgniarka powinna zalecić spożywanie:",
+        "odpowiedzi": [
+            "A.pieczywa pakowanego ciśnieniowo, posiłków poddanych obróbce termicznej, z wyłączeniem ostrych przypraw",
+            "B.produktów surowych, bezglutenowych, podgrzanych w mikrofalówce",
+            "C.produktów wyłącznie poddanych obróbce termicznej, bezmlecznych, pieczywa chrupkiego",
+            "D.pieczywa opiekanego w tosterze, doprawionego papryką, podgrzanego w mikrofalówce"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "85.Który z wymienionych objawów jest typowy dla kłębkowego zapalenia nerek:",
+        "odpowiedzi": [
+            "A.wielomocz",
+            "B.bezmocz",
+            "C.częstomocz",
+            "D.krwinkomocz"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "137. Nadrzędnym celem opieki nad  osobami starszymi jest:",
+        "odpowiedzi": [
+            "A.pielęgnowanie w czasie choroby",
+            "B.niwelowanie dolegliwości somatycznych",
+            "C.doraźna pomoc w czynnościach pielęgnacyjnych",
+            "D.nauczenie samoopieki w ograniczonej sprawności"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "380. Do ogólnych zasad pobierania materiału do diagnostyki mikrobiologicznej należą:",
+        "odpowiedzi": [
+            "A.materiały do badań mikrobiologicznych mogą pobierać  osoby uprzednio przeszkolone lub osoby nie przeszkolone ale posiadające tytuł magistra pielęgniarstwa lub tytuł specjalisty w dziedzinie pielęgniarstwa epidemiologicznego",
+            "B.materiał biologiczny do badań wirusologicznych, bakteriologicznych i mikologicznych pobiera się przed rozpoczęciem leczenia – natomiast w przypadku  pobierania materiału do badań mikrobiologicznych od pacjenta u którego już wcześniej rozpoczęto leczenie, zaznacza się ten fakt na skierowaniu podając nazwę antybiotyku, oraz okres jego podawania",
+            "C.materiał do badań mikrobiologicznych pobiera się przed podaniem kolejnej dawki, natomiast  badanie kontrolne po leczeniu przeciwdrobnoustrojowym wykonuje się co najmniej po trzech dniach od zakończenia podawania antybiotyku.",
+            "D.prawidłowa odpowiedź b i c"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "495.Ostre narzędzia stosowane w procedurach medycznych należy po zakończonej czynności:",
+        "odpowiedzi": [
+            "A.poddać procesowi dekontaminacji",
+            "B.umieścić w pojemniku twardościennym",
+            "C.umieścić w worku na odpady sanitarne",
+            "D.zapakować w oryginalne opakowanie"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "145. Pojęcie ,,norma moralna” oznacza:",
+        "odpowiedzi": [
+            "A.system zakazów",
+            "B.system wartości materialnych",
+            "C.elementy systemu etycznego i moralności",
+            "D.system nakazów"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "367. Wykonując transfuzję KKCZ należy",
+        "odpowiedzi": [
+            "A.sprawdzić zgodność danych  na etykiecie KKCZ z próbą krzyżową",
+            "B.sprawdzić datę ważności KKCZ",
+            "C.skontrolować temperaturę ciała Pacjenta, wykonać pomiar RR i HR",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "481. Zaznacz prawidłowe stwierdzenie dotyczące koloidów:",
+        "odpowiedzi": [
+            "A. nadmierna podaż koloidów sztucznych może spowodować obrzęk płuc",
+            "B.do koloidów sztucznych należą albuminy ludzkie",
+            "C.pozostają krócej w obrębie naczyń niż krystaloidy",
+            "D.do koloidów naturalnych należy hydroksyetylowana skrobia "
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "112. Czym różni się piramida żywienia i aktywności fizycznej dla dzieci oraz osób starszych w stosunku do piramidy dla osób dorosłych?",
+        "odpowiedzi": [
+            "A.w piramidzie dla dzieci i młodzieży oraz osób starszych zalecane jest więcej posiłków niż dla osób dorosłych",
+            "B.dzieci, młodzież oraz seniorzy powinni spożywać więcej produktów mlecznych niż osoby dorosłe",
+            "C.aktywność fizyczna jest pominięta w piramidzie dla osób dorosłych",
+            "D.odpowiedzi a i b są prawidłowe"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "170.Filtracja i resorpcja są przeciwstawnymi procesami, zachodzą w:",
+        "odpowiedzi": [
+            "A.płucach",
+            "B.pęcherzyku żółciowym",
+            "C.lewej komorze serca",
+            "D.nerkach"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "591. Czy świadczenia zapobiegawcze, diagnostyczne, lecznicze i rehabilitacyjne mogą być udzielane przez pielęgniarkę bez zlecenia lekarskiego:",
+        "odpowiedzi": [
+            "A.w pełnym zakresie",
+            "B.nie mogą być udzielane",
+            "C.w zakresie i rodzaju tych świadczeń określonych w rozporządzeniu Ministra właściwego do spraw zdrowia po zasięgnięciu opinii Naczelnej Rady Pielęgniarek i Położnych",
+            "D.tak , wedle uznania pielęgniarki"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "349.Jednostka chorobowa, która nie ma określonej przyczyny, polega na aktywacji kaskady krzepnięcia i wytworzeniu licznych mikrozakrzepów w świetle małych naczyń krwionośnych, przebiegająca z ze znacznie podwyższonymi produktami rozpadu fibryny (D-dimerami) to:",
+        "odpowiedzi": [
+            "A.wirusowe zapalenia wątroby",
+            "B.anemia",
+            "C.DIC - zespół wykrzepiania wewnątrznaczyniowego",
+            "D.marskość wątroby"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "546. Pod pojęciem diagnozy pielęgniarskiej rozumiemy",
+        "odpowiedzi": [
+            "A.ocenę i hierarchizację potrzeb bio- psycho-społecznych pacjenta",
+            "B.ocenę stanu bio- psych- społecznego, zagrożeń oraz możliwości człowieka, rodziny, grupy",
+            "C.ocenę problemów zdrowotnych pacjenta, rodziny i grupy społecznej",
+            "D.ocenę biologicznych aspektów zdrowia"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "460.W aktywizacji pacjenta chorego na depresję wskazane są zajęcia:",
+        "odpowiedzi": [
+            "A.proste, które chory może wykonać do końca",
+            "B.atrakcyjne",
+            "C.trwające krótko",
+            "D.atrakcyjne, trwające krótko i proste"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "31. Do najważniejszych powikłań związanych z zabiegiem hemodializy należą:",
+        "odpowiedzi": [
+            "A.zespół niewyrównania",
+            "B.hipotonia jak i hipertonia śróddializacyjna",
+            "C.świąd skóry",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "220.Zarządzanie to:",
+        "odpowiedzi": [
+            "A.planowanie, organizowanie, motywowanie, kontrolowanie",
+            "B.usuwanie, planowanie, organizowanie",
+            "C.definiowanie problemu, weryfikowanie w działaniu",
+            "D.wszystkie są prawdziwe"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "504. Pacjent ma otrzymać doustnie o godzinie 12.00 0.5 g leku, który ma postać tabletek po 250 mg. Ile tabletek powinien otrzymać pacjent:",
+        "odpowiedzi": [
+            "A.½ tabletki",
+            "B.1 tabletkę",
+            "C.1 ½ tabletki",
+            "D.2 tabletki"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "195. Spożywając, które z wymienionych poniżej produkty (bez wstępnej obróbki) mogą spowodować u dzieci wystąpienie Salmonelli?",
+        "odpowiedzi": [
+            "A.mleko, mięso, jaja",
+            "B.lody, jabłko, woda",
+            "C.pieczywo, czekolada, twaróg",
+            "D.marchew, budyń, jogurt"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "291. Bezwzględnym przeciwwskazaniem do karmienia piersią, ze strony noworodka jest:",
+        "odpowiedzi": [
+            "A.Fenyloketonuria",
+            "B.rozszczep wargi i podniebienia",
+            "C.choroba syropu klonowego",
+            "D.galaktozemia"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "421. Pielęgniarka przedstawia diabetykowi główne przyczyny hipoglikemii, do których należy:",
+        "odpowiedzi": [
+            "A.zastosowanie zbyt dużych dawek insuliny lub leków doustnych",
+            "B.inne niż cukrzyca choroby przebiegające z utratą łaknienia",
+            "C.błędy dietetyczne, zbyt intensywny wysiłek fizyczny",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "3.Treść żołądkowa przechodzi do:",
+        "odpowiedzi": [
+            "A.zstępnicy",
+            "B.esicy",
+            "C.wstępnicy",
+            "D.dwunastnicy"
+        ],
+        "poprawna": 3
+    }
+]

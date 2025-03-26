@@ -1,0 +1,302 @@
+[
+    {
+        "tresc": "522.Wzrost temperatury o 0.1 °C powoduje zmianę szybkości tętna w następujący sposób:",
+        "odpowiedzi": [
+            "A.u każdego pacjenta tętno zmienia się indywidualnie",
+            "B.tętno zmniejsza się o 10 uderzeń / min",
+            "C.tętno wzrasta o 10 – 20 uderzeń / min",
+            "D.tętno pozostaje bez zmian"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "133. Kwalifikacja pacjenta do pielęgniarskiej opieki długoterminowej domowej dokonywana jest za pomocą skali:",
+        "odpowiedzi": [
+            "A.Glasgow",
+            "B.Douglas.",
+            "C.Waterlow,",
+            "D.Bartel"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "257.Peptydoglikan ściany komórkowej bakterii rozkładany jest przez",
+        "odpowiedzi": [
+            "A.lipazę",
+            "B.liposom",
+            "C.lizozym",
+            "D.lipozym"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "261.Litotrypsja oparta jest na działaniu",
+        "odpowiedzi": [
+            "A.infradźwięków",
+            "B.ultradźwięków",
+            "C.fal radiowych długich",
+            "D.wibracji w zakresie 4-18hz"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "360. Rozejście się rany to powikłanie w obrębie miejsca operowanego. Czynniki które zwiększają ryzyko wystąpienia tego powikłania to:",
+        "odpowiedzi": [
+            "A.otyłość, cukrzyca, podeszły wiek, stosowanie steroidów",
+            "B.wiek niemowlęcy, stosowanie steroidów, leczenie onkologiczne",
+            "C.podeszły wiek, wrodzone lub nabyte upośledzenie odporności",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "106. W chorobie niedokrwiennej serca i przy nadciśnieniu tętniczym należy w diecie zwiększyć:",
+        "odpowiedzi": [
+            "A.ilość potasu",
+            "B.ilość wapnia",
+            "C.ilość sodu",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "282. Do podstawowych leków stosowanych w resuscytacji noworodka należą:",
+        "odpowiedzi": [
+            "A.adrenalina i atropina",
+            "B.10%glukoza i adrenalina",
+            "C.wyłącznie adrenalina",
+            "D.adrenalina i wodorowęglan sodu"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "489. Antagoniści kanałów wapniowych to:",
+        "odpowiedzi": [
+            "A. werapamil, diltiazem",
+            "B. amiodaron, sotalol",
+            "C.propafenon, lidokaina",
+            "D. bisoprolol, metoprolol"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "544. Drugi etap procesu pielęgnowania zawiera następujące fazy:",
+        "odpowiedzi": [
+            "A.ustalenie celu, dobór metod, formułowanie planu",
+            "B.gromadzenie i analiza danych, ustalenie diagnozy",
+            "C.sprawdzenie gotowości pacjenta i pielęgniarki, realizacja planu.",
+            "D.analizy danych i ustaleniu działań"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "119. Czynniki wpływające na glikemię poposiłkową:",
+        "odpowiedzi": [
+            "A.skład i ilość posiłku",
+            "B.indeks glikemiczny produktów w posiłku",
+            "C.aktywność fizyczna przed posiłkiem",
+            "D.odpowiedzi a i c są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "156.Konflikt serologiczny:",
+        "odpowiedzi": [
+            "A. występuje w antygenie D układu RhD krwinek czerwonych",
+            "B. daje objawy kliniczne w drugiej i kolejnych ciążach, podczas pierwszej ciąży zazwyczaj nie daje objawów klinicznych",
+            "C. występuje pomiędzy matką która nie posiada antygenu D na swoich erytrocytach [matka RhD - (ujemna)], a płodem który posiada na swoich erytrocytach antygen D [dziecko RhD + (dodatnie)]",
+            "D. wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "626.Flora fizjologiczna to:",
+        "odpowiedzi": [
+            "A.wszystkie drobnoustroje bytujące na powierzchni skóry",
+            "B.zespół drobnoustrojów, które w sposób stały kolonizują skórę i narządy wewnętrzne",
+            "C.zespół drobnoustrojów, które w sposób stały i przejściowy kolonizują wszystkie obszary naszego ciała",
+            "D.zespół drobnoustrojów, które w sposób stały, lub przejściowy kolonizują wybrane  obszary ciała ludzkiego"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "200. Diagnoza pielęgniarska może być stawiana jako:",
+        "odpowiedzi": [
+            "A.pozytywna",
+            "B.negatywna",
+            "C.negatywna i pozytywna",
+            "D.żadna z powyższych"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "17.Zęby u człowieka występują w jamie ustnej, osadzone są w zębodołach i otoczone dziąsłami. Podczas życia człowieka następuje jednokrotna wymiana uzębienia, zęby mleczne zostają zastąpione zębami stałymi. U człowieka występuje odpowiednio:",
+        "odpowiedzi": [
+            "A.16 zębów mlecznych; 18 zębów stałych",
+            "B.32 zęby mleczne; 20 zębów stałych",
+            "C.20 zębów mlecznych; 32 zęby stałe",
+            "D.10 zębów mlecznych; 26 zębów stałych"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "187. Do szczepień zalecanych zaliczamy między innymi:",
+        "odpowiedzi": [
+            "A.szczepienie przeciw ospie wietrznej",
+            "B.szczepienie przeciw grypie",
+            "C.szczepienie przeciw wsciekliźnie",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "623. Porada przekazywana w listach, prasie, książkach, telefonicznie, w radiu i telewizji to porada:",
+        "odpowiedzi": [
+            "A.pośrednia",
+            "B.bezpośrednia",
+            "C.prosta",
+            "D.złożona"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "96. Ilość błonnika pokarmowego powoduje:",
+        "odpowiedzi": [
+            "A.nadmiar zmniejsza wchłanianie witamin z grupy B",
+            "B.nadmiar zmniejsza wchłanianie witamin rozpuszczalnych w tłuszczach (ADEK)",
+            "C.niedobór nie wpływa negatywnie na funkcjonowanie organizmu",
+            "D.wszystkie odpowiedzi są poprawne"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "640.Zapobieganie wirusowemu zapaleniu wątroby typu C polega na:",
+        "odpowiedzi": [
+            "A.zachowaniu zasad profilaktyki nieswoistej obowiązującej w chorobach przenoszonych drogą krwi ",
+            "B.immunizacji biernej – podanie gotowych przeciwciał",
+            "C.immunizacji czynnej – szczepienia ochronne",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "225.Pielęgniarka w swojej pracy stosuje plany długo i krótkoterminowe w oparciu o indywidualny plan opieki",
+        "odpowiedzi": [
+            "A.musi się ściśle tego planu trzymać",
+            "B.powinna go zmienić, jeśli zmienił się stan pacjenta",
+            "C.nie może go zmienić pod żadnym pozorem",
+            "D.odpowiedź a i c jest prawidłowa"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "79.Oftalmoskopem nie zbadamy:",
+        "odpowiedzi": [
+            "A.dna oka",
+            "B.przewodu słuchowego",
+            "C.spojówek",
+            "D.wielkości źrenic"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "410. Podczas realizowania działań leczniczych z zakresu rehabilitacji pacjentów po przebyciu zawału mięśnia sercowego z uniesieniem odcinka ST leczonych metodą angioplastyki pielęgniarka powinna:",
+        "odpowiedzi": [
+            "A.zastosować najpierw model rehabilitacji A, potem B",
+            "B.zastosować model rehabilitacji A",
+            "C.zastosować model rehabilitacji B",
+            "D.żadna odpowiedź nie jest prawidłowa"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "60. Prawidłowa wartość pH krwi tętniczej wynosi:",
+        "odpowiedzi": [
+            "A.7,35-7,45",
+            "B.7,30- 7,70",
+            "C.6,15- 7,6",
+            "D.6,30-7,50"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "571. Przygotowanie pacjenta do samoopieki w warunkach domowych obejmuje:",
+        "odpowiedzi": [
+            "A.wdrażanie do samoobsługi oraz kształtowanie umiejętności samoobserwacji",
+            "B.edukację zdrowotną",
+            "C.motywowanie do dbałości o jakość życia",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "369. Wskaż czynniki miejscowe wpływające na gojenie ran bez względu na fazę gojenia rany.",
+        "odpowiedzi": [
+            "A.alkoholizm, nikotynizm",
+            "B.cukrzyca",
+            "C.otyłość",
+            "D.infekcja rany"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "53. Obowiązkowym wyposażeniem każdego stanowiska do znieczulenia jest:",
+        "odpowiedzi": [
+            "A.defibrylator",
+            "B.aparat USG",
+            "C.zestaw do intubacji",
+            "D.zestaw do intubacji/ssak"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "122. Przeciwwskazaniem do przyjęcia osoby starszej do zakładu opiekuńczo-leczniczego jest stan:",
+        "odpowiedzi": [
+            "A.po złamaniu szyjki kości udowej",
+            "B.po amputacji kończyn dolnych",
+            "C.kwalifikujący osobę starszą do hospitalizacji",
+            "D.ze znacznym ograniczeniem zdolności do samoobsługi i samopielęgnacji"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "150. Kodeks  etyki zawodowej jest to:",
+        "odpowiedzi": [
+            "A.zapisany zespół norm etyki zawodowej",
+            "B.zbiór zakazów obowiązujących członków  jednej grupy zawodowej",
+            "C.system nakazów  dotyczących przedstawicieli określonej procesji",
+            "D.zakres odpowiedzialności pracowników  jednego zakładu"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "109. Stosowanie diet eliminacyjnych produkty potencjalnie wywołujące nietolerancje pokarmowe u",
+        "odpowiedzi": [
+            "A.są korzystne dla zdrowia człowieka",
+            "B.są korzystne w przypadku eliminacji laktozy i glutenu",
+            "C.mogą prowadzić do patologicznych zmian w mikroflorze jelitowej",
+            "D.nie niosą konsekwencji dla zdrowia człowieka"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "183. Przyczyny zaparć to:",
+        "odpowiedzi": [
+            "A.niewłaściwa dieta",
+            "B.mała ilość błodnika i płynów",
+            "C.unikanie wypróżnień",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "259.Który z enzymów nie jest związany z trawieniem",
+        "odpowiedzi": [
+            "A.diastaza",
+            "B.lipaza",
+            "C.cholinoesteraza",
+            "D.chymotrypsyna"
+        ],
+        "poprawna": 2
+    }
+]

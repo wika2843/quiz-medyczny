@@ -1,0 +1,302 @@
+[
+    {
+        "tresc": "264.Które stwierdzenie nie jest prawdziwe",
+        "odpowiedzi": [
+            "A.enzymy są swoiste względem substratu",
+            "B.enzymy nie są stereospecyficzne",
+            "C.enzymy nie zużywają się w przebiegu reakcji",
+            "D.enzymy katalizują swoiste dla nich reakcje"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "426. Które z podanych poniżej zdań jest najbardziej prawidłowe?",
+        "odpowiedzi": [
+            "A.edukacja powinna być skierowana na pacjenta i jego najbliższe otoczenie, rodzinę",
+            "B.edukację diabetologiczną pielęgniarka powinna prowadzić wyłącznie w formie indywidualnej",
+            "C.edukacja powinna być skierowana wyłącznie na pacjenta",
+            "D.edukację diabetologiczną pielęgniarka powinna prowadzić tylko w ramach zajęć grupowych"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "169.Układ krzepnięcia pełni u człowieka bardzo ważne funkcje, m.in. zapobiega wewnątrznaczyniowemu wykrzepianiu krwi, a w przypadku przerwania ciągłości naczynia krwionośnego zapobiega krwawieniu poprzez wytwarzanie czopu płytkowego. Układ krzepnięcia zachowuje równowagę, nazywamy go inaczej układem...:",
+        "odpowiedzi": [
+            "A.hemostazy",
+            "B.homeostazy",
+            "C.DIC",
+            "D.wykrzepiania wewnątrznaczyniowego"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "71.Dla rozpoznania zmian chorobowych związanych z wątrobą pomocne mogą być objawy:",
+        "odpowiedzi": [
+            "A.Rovsinga, Blumberga",
+            "B.Marphiego, Chełmońskiego",
+            "C.Marphiego, Goldflama",
+            "D.Chełmońskiego, Blumberga"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "600.Pacjent ma prawo do wyrażenia zgody na udzielenie określonych świadczeń zdrowotnych lub odmowy takiej zgody:",
+        "odpowiedzi": [
+            "A.po uzyskaniu ogólnej lub częściowej informacji o swoim stanie zdrowia",
+            "B.po uzyskaniu informacji o swoim stanie zdrowia",
+            "C.bez uzyskania informacji o swoim stanie zdrowia",
+            "D.przed uzyskaniem informacji o swoim stanie zdrowia"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "279.Hipertermię rozpoznaje się u noworodka z głęboką temperaturą ciała:",
+        "odpowiedzi": [
+            "A.powyżej 36,6C",
+            "B.powyżej 38,0C",
+            "C.powyżej 37,5C",
+            "D.powyżej 39,0C"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "239.Koszty całkowite podmiotu leczniczego, są to koszty:",
+        "odpowiedzi": [
+            "A.podstawowych usług zdrowotnych oferowanych przez podmiot leczniczy",
+            "B.inwestycji i materiałów",
+            "C.działalności administracyjnej zakładu",
+            "D.będące sumą kosztów stałych i zmiennych zakładu"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "269.Denaturacja białka nie zachodzi podczas",
+        "odpowiedzi": [
+            "A.działania kwasów i zasad",
+            "B.soli metali ciężkich",
+            "C.liofilizacji",
+            "D.napromieniowania"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "475.. Do działań niepożądanych opioidowych leków przeciwbólowych zaliczamy: 1. szpilkowate źrenice 2. szerokie, niereagujące na światło źrenice 3. nudności 4. wymioty 5. świąd 6. zaparcia 7. przyspieszenie oddechu",
+        "odpowiedzi": [
+            "A.1, 4, 5, 7",
+            "B.2, 3, 4, 6, 7",
+            "C. 1, 3, 4, 5, 6",
+            "D.2, 4, 6, 7"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "632. 5 momentów higieny rąk WHO” zawiera wskazania do wykonania higieny rąk ułożone w kolejności:",
+        "odpowiedzi": [
+            "A.przed kontaktem z pacjentem, przed czystą aseptyczną procedurą, po kontakcie z płynami ustrojowymi, po kontakcie z pacjentem, przed kontaktem z otoczeniem pacjenta",
+            "B.przed kontaktem z pacjentem, przed czystą aseptyczną procedurą, po kontakcie z płynami ustrojowymi, po kontakcie z pacjentem, po kontakcie z otoczeniem pacjenta",
+            "C. przed kontaktem z pacjentem, przed kontaktem z otoczeniem pacjenta, przed wykonaniem czystej, aseptycznej procedury, po wykonaniu czystej, aseptycznej procedury, po kontakcie z pacjentem",
+            "D.przed kontaktem z pacjentem, przed czystą aseptyczną procedurą, po kontakcie z krwią i płynami ustrojowymi, po kontakcie z pacjentem, po opuszczeniu sali pacjenta"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "433. W okresie ostrego rzutu RZS pielęgniarka realizuje zadania lecznicze poprzez udział w rehabilitacji stosując wówczas:",
+        "odpowiedzi": [
+            "A.ćwiczenia bierne",
+            "B.ćwiczenia czynne",
+            "C.ćwiczenia czynne w odciążeniu",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "293. Hipoglikemię w pierwszej dobie życia u noworodka ocenia się na poziomie:",
+        "odpowiedzi": [
+            "A. <40mg%",
+            "B.tylko u noworodków  matek z cukrzycą G2",
+            "C.tylko u noworodków z zaburzeniami metabolicznymi",
+            "D.prawidłowa odpowiedź b i c"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "454.Który sposób komunikowania z pacjentem jest NIETERAPEUTYCZNY:",
+        "odpowiedzi": [
+            "A.przekazywanie obserwacji",
+            "B.ocenianie postawy",
+            "C.kierowanie zwrotne pytań",
+            "D.udzielanie informacji"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "471.Bulimię charakteryzują następujące cechy z WYJĄTKIEM:",
+        "odpowiedzi": [
+            "A.okresowe napady objadania się",
+            "B.zachowania kompensacyjne zapobiegające przyrostowi masy ciała",
+            "C.zmniejszenie masy ciała ponad 15% w stosunku do masy prawidłowej",
+            "D.osoba chora nie wykazuje istotnej niedowagi"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "453.Pozytywna postawa wobec własnej osoby w zakresie samooceny to:",
+        "odpowiedzi": [
+            "A.samorealizacja",
+            "B.samostanowienie",
+            "C.samoodtrącenie",
+            "D.samoakceptacja"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "51. Pomiar OCŻ wykonujemy w:",
+        "odpowiedzi": [
+            "A.prawym przedsionku",
+            "B.lewej komorze",
+            "C.naczyniach wieńcowych",
+            "D.tchawicy"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "655.Które z poniższych stwierdzeń jest nieprawdziwe:",
+        "odpowiedzi": [
+            "A.w celu zapobiegania wystąpienia zakażeń odcewnikowych należy prawidłowo przygotować miejsce wkłucia poprzez zastosowanie preparatów antyseptycznych",
+            "B.w celu zapobiegania wystąpienia zakażeń odcewnikowych należy prawidłowo przygotować miejsce wkłucia poprzez zastosowanie preparatów aseptycznych",
+            "C.zakażenia odcewnikowe w większości są spowodowane własną florą pacjenta",
+            "D.stan odporności kolonizacyjnej może być zaburzony, m.in. poprzez długotrwałe stosowanie leków przeciwbakteryjnych i cytostatyków"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "197. Ile porcji owoców i warzyw powinno dziennie otrzymywać dziecko:",
+        "odpowiedzi": [
+            "A.1-2",
+            "B.2-3",
+            "C.3-4",
+            "D.4-5"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "384. Choroby tarczycy przebiegające z eutyreozą, czyli stan, w którym stwierdza się prawidłowy poziom hormonów wydzielanych przez tarczycę we krwi to:",
+        "odpowiedzi": [
+            "A.wole miąższowe, wole guzkowe nietoksyczne, zapaleni tarczycy (de Querveina) i guzki tarczycy nieme hormonalnie",
+            "B.wole guzkowate toksyczne, gruczolak tarczycy",
+            "C.wole Hashimoto",
+            "D.choroba Gravesa-Basedowa"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "586. Kto ma prawo do ochrony zdrowia:",
+        "odpowiedzi": [
+            "A.niepełnosprawni",
+            "B.dzieci i kobiety ciężarne",
+            "C.osoby w podeszłym wieku",
+            "D.każdy"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "358. Objawami sugerującymi zapalenie wyrostka robaczkowego są:",
+        "odpowiedzi": [
+            "A.ból w nadbrzuszu, przemieszczający się do prawego dołu biodrowego, stały, narastający w czasie poruszania się",
+            "B.objaw Goldflama, Chełmońskiego, Babińskiego",
+            "C.objawy otrzewnowe: Blumberga, Rovsinga, Jaworskiego, obrona mięśniowa, odruch kaszlowy",
+            "D.wszystkie odpowiedzi prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "631.Do wdrożenia i zapewnienia funkcjonowania systemu oceny ryzyka zakażenia związanego z udzielaniem świadczeń zdrowotnych obowiązani są:",
+        "odpowiedzi": [
+            "A.członkowie zespołu kontroli zakażeń szpitalnych",
+            "B.członkowie komitetu kontroli zakażeń szpitalnych",
+            "C. kierownicy podmiotów leczniczych",
+            "D.wszystkie wyżej wymienione osoby"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "425.Pielęgniarka zna przyczyny zwiększonego ryzyka rozwoju stopy cukrzycowej, do których należą:",
+        "odpowiedzi": [
+            "A.neuropatia i/lub zmiany naczyniowe",
+            "B.owrzodzenie w wywiadzie",
+            "C.staw Charcota w wywiadzie",
+            "D.wszystkie z wymienionych odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "263.Biopolimerem jest",
+        "odpowiedzi": [
+            "A.poliamid",
+            "B.polimetakrylan",
+            "C.chityna",
+            "D.akrylonitryl"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "214. Którego z poniższych pokarmów powinno unikać dziecko z chorobą trzewną?",
+        "odpowiedzi": [
+            "A.ryżu",
+            "B.mleka",
+            "C.pszenicy",
+            "D.drobiu"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "340.Ahalazja to:",
+        "odpowiedzi": [
+            "A.zaburzenia dolnego odcinka jelita grubego, polegające na braku rozluźniania dolnego zwieracza odbytu",
+            "B.zaburzenia oddawania moczu",
+            "C.zaburzenia  perystaltyki dalszych 2/3 przełyku, przy jednoczesnym braku rozluźniania mięśnia dolnego zwieracza przełyku",
+            "D.zaburzenia perystaltyki przełyku z zaburzeniem skurczu mięśnia górnego zwieracza przełyku"
+        ],
+        "poprawna": 2
+    },
+    {
+        "tresc": "392. Dopasowując płytkę worka urostomijnego do przetoki (urostomii), należy pamiętać o zasadzie:",
+        "odpowiedzi": [
+            "A.otwór w płytce powinien dokładnie odpowiadać wielkości przetoki",
+            "B.otwór w płytce powinien być większy o 2 cm od średnicy przetok",
+            "C.otwór w płytce powinien być większy o 1 cm od średnicy przetoki",
+            "D.wielkość otworu w płytce nie ma znaczenia dla pielęgnacji skóry"
+        ],
+        "poprawna": 1
+    },
+    {
+        "tresc": "449.Do typowych objawów zespołu Downa zalicza się:",
+        "odpowiedzi": [
+            "A.wysoko osadzone, mało pofałdowane małżowiny uszne",
+            "B.liczne drobne bruzdy na dłoni",
+            "C.wzmożone napięcie mięśniowe",
+            "D.zmarszczkę nakątną"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "148. Jaką odpowiedzialność ponoszą pielęgniarki:",
+        "odpowiedzi": [
+            "A.służbową",
+            "B.cywilną",
+            "C.zawodowa",
+            "D.wszystkie odpowiedzi są prawidłowe"
+        ],
+        "poprawna": 3
+    },
+    {
+        "tresc": "74.Zespół Sudecka powoduje zmiany zanikowe w tkankach kończyn w okresie od pojawienia się pierwszych objawów:",
+        "odpowiedzi": [
+            "A.czterech tygodni do sześciu miesięcy",
+            "B.sześciu tygodni do czterech miesięcy",
+            "C.miesiąca do czterech miesięcy",
+            "D.miesiąca do sześciu miesięcy"
+        ],
+        "poprawna": 1
+    }
+]
