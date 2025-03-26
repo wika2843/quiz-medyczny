@@ -58,6 +58,58 @@
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
       text-align: center;
     }
+    .review-question {
+      background-color: #f8f9fa;
+      border-radius: 5px;
+      padding: 15px;
+      margin-bottom: 15px;
+    }
+    .correct-answer {
+      background-color: #d4edda;
+      border-left: 4px solid #28a745;
+    }
+    .wrong-answer {
+      background-color: #f8d7da;
+      border-left: 4px solid #dc3545;
+    }
+    .user-answer {
+      padding: 5px 10px;
+      border-radius: 3px;
+      margin-top: 5px;
+    }
+    .correct-text {
+      color: #28a745;
+      font-weight: bold;
+    }
+    .wrong-text {
+      color: #dc3545;
+      font-weight: bold;
+    }
+    .answer-review {
+      margin-top: 10px;
+      padding-left: 15px;
+    }
+    .tabs {
+      display: flex;
+      margin-bottom: 20px;
+    }
+    .tab {
+      padding: 10px 15px;
+      background-color: #f1f1f1;
+      border-radius: 5px 5px 0 0;
+      margin-right: 5px;
+      cursor: pointer;
+    }
+    .tab.active {
+      background-color: #3498db;
+      color: white;
+    }
+    .tab-content {
+      display: none;
+    }
+    .tab-content.active {
+      display: block;
+    }
     @media (max-width: 600px) {
       body { margin: 10px; }
     }
@@ -72,6 +124,7 @@
       <label for="file-select">Wybierz zestaw pytań:</label>
       <select id="file-select">
         <option value="">-- Wybierz zestaw --</option>
+        <option value="test.json">Test</option>
         <option value="pytania_1.json">Zestaw 1</option>
         <option value="pytania_2.json">Zestaw 2</option>
         <option value="pytania_3.json">Zestaw 3</option>
@@ -126,7 +179,26 @@
   <div id="result-screen">
     <h2>Twój wynik</h2>
     <div id="result-display" class="result-card"></div>
-    <button onclick="backToStart()">Nowy Quiz</button>
+    
+    <div class="tabs">
+      <div id="tab-summary" class="tab active" onclick="showTab('summary')">Podsumowanie</div>
+      <div id="tab-all" class="tab" onclick="showTab('all')">Wszystkie pytania</div>
+      <div id="tab-wrong" class="tab" onclick="showTab('wrong')">Błędne odpowiedzi</div>
+    </div>
+    
+    <div id="summary-tab" class="tab-content active">
+      <!-- Tu będzie wyświetlane podsumowanie -->
+    </div>
+    
+    <div id="all-questions-tab" class="tab-content">
+      <!-- Tu będą wyświetlane wszystkie pytania -->
+    </div>
+    
+    <div id="wrong-questions-tab" class="tab-content">
+      <!-- Tu będą wyświetlane pytania z błędnymi odpowiedziami -->
+    </div>
+    
+    <button onclick="backToStart()" style="margin-top: 20px;">Nowy Quiz</button>
   </div>
   
   <script>
@@ -137,6 +209,7 @@
     let selectedFile = '';
     let selectedOption = null;
     let userNick = '';
+    let userAnswers = []; // Tablica do przechowywania odpowiedzi użytkownika
     
     // Start quizu
     function startQuiz() {
@@ -171,6 +244,7 @@
           // Reset quizu
           currentQuestion = 0;
           score = 0;
+          userAnswers = []; // Wyczyść odpowiedzi użytkownika
           
           // Pokazanie ekranu quizu
           document.getElementById('start-screen').style.display = 'none';
@@ -248,13 +322,49 @@
       // więc odejmujemy 1, aby uzyskać prawidłowy indeks
       const correctIndex = question.poprawna - 1;
       
-      if (selectedOption === correctIndex) {
+      // Sprawdź poprawność i zapisz informacje o odpowiedzi
+      const isCorrect = selectedOption === correctIndex;
+      if (isCorrect) {
         score++;
       }
+      
+      // Zapisz odpowiedź użytkownika
+      userAnswers.push({
+        questionIndex: currentQuestion,
+        question: question.tresc,
+        userAnswer: question.odpowiedzi[selectedOption],
+        correctAnswer: question.odpowiedzi[correctIndex],
+        isCorrect: isCorrect
+      });
       
       // Przejście do następnego pytania
       currentQuestion++;
       showQuestion();
+    }
+    
+    // Funkcja do przełączania między zakładkami wyników
+    function showTab(tabName) {
+      // Usuń aktywną klasę ze wszystkich zakładek
+      document.querySelectorAll('.tab').forEach(tab => {
+        tab.classList.remove('active');
+      });
+      
+      // Ukryj wszystkie zawartości zakładek
+      document.querySelectorAll('.tab-content').forEach(content => {
+        content.classList.remove('active');
+      });
+      
+      // Aktywuj wybraną zakładkę
+      if (tabName === 'summary') {
+        document.getElementById('tab-summary').classList.add('active');
+        document.getElementById('summary-tab').classList.add('active');
+      } else if (tabName === 'all') {
+        document.getElementById('tab-all').classList.add('active');
+        document.getElementById('all-questions-tab').classList.add('active');
+      } else if (tabName === 'wrong') {
+        document.getElementById('tab-wrong').classList.add('active');
+        document.getElementById('wrong-questions-tab').classList.add('active');
+      }
     }
     
     // Wyświetlenie wyników
@@ -276,12 +386,71 @@
         resultColor = "#e74c3c";
       }
       
+      // Wyświetl podsumowanie
       document.getElementById('result-display').innerHTML = `
         <p>Użytkownik: <strong>${userNick}</strong></p>
         <p>Twój wynik: <span style="font-size: 28px; font-weight: bold; color: ${resultColor}">${score} / ${questions.length}</span></p>
         <p>Procent poprawnych odpowiedzi: ${percent}%</p>
         <p style="color: ${resultColor}; font-size: 20px;">${resultText}</p>
         <p>Plik z pytaniami: ${selectedFile}</p>
+      `;
+      
+      // Wyświetl wszystkie pytania i odpowiedzi
+      const allQuestionsContainer = document.getElementById('all-questions-tab');
+      const wrongQuestionsContainer = document.getElementById('wrong-questions-tab');
+      
+      allQuestionsContainer.innerHTML = '';
+      wrongQuestionsContainer.innerHTML = '';
+      
+      // Przygotuj listę wszystkich pytań i błędnych odpowiedzi
+      let wrongAnswersCount = 0;
+      
+      userAnswers.forEach((answer, index) => {
+        const questionElement = document.createElement('div');
+        questionElement.className = `review-question ${answer.isCorrect ? 'correct-answer' : 'wrong-answer'}`;
+        
+        const statusSymbol = answer.isCorrect ? '✓' : '✗';
+        const statusClass = answer.isCorrect ? 'correct-text' : 'wrong-text';
+        
+        questionElement.innerHTML = `
+          <div><strong>Pytanie ${index + 1}:</strong> <span class="${statusClass}">${statusSymbol}</span></div>
+          <div>${answer.question}</div>
+          <div class="answer-review">
+            <div>Twoja odpowiedź: <span class="${answer.isCorrect ? 'correct-text' : 'wrong-text'}">${answer.userAnswer}</span></div>
+            ${!answer.isCorrect ? `<div>Poprawna odpowiedź: <span class="correct-text">${answer.correctAnswer}</span></div>` : ''}
+          </div>
+        `;
+        
+        // Dodaj do listy wszystkich pytań
+        allQuestionsContainer.appendChild(questionElement);
+        
+        // Jeśli odpowiedź jest błędna, dodaj również do listy błędnych odpowiedzi
+        if (!answer.isCorrect) {
+          wrongAnswersCount++;
+          wrongQuestionsContainer.appendChild(questionElement.cloneNode(true));
+        }
+      });
+      
+      // Aktualizuj tytuł zakładki z błędnymi odpowiedziami
+      document.getElementById('tab-wrong').innerText = `Błędne odpowiedzi (${wrongAnswersCount})`;
+      
+      // Jeśli nie ma błędnych odpowiedzi, wyświetl komunikat
+      if (wrongAnswersCount === 0) {
+        wrongQuestionsContainer.innerHTML = '<p class="correct-text" style="text-align: center; font-size: 18px;">Brawo! Nie popełniłeś żadnego błędu!</p>';
+      }
+      
+      // Wyświetl informacje na zakładce podsumowanie
+      document.getElementById('summary-tab').innerHTML = `
+        <div style="text-align: center; margin-bottom: 20px;">
+          <p>Poprawnych odpowiedzi: <span class="correct-text">${score}</span></p>
+          <p>Błędnych odpowiedzi: <span class="wrong-text">${questions.length - score}</span></p>
+          <p>Procent poprawnych: <span style="color: ${resultColor}; font-weight: bold;">${percent}%</span></p>
+        </div>
+        <p>Wybierz zakładkę powyżej, aby zobaczyć szczegóły:</p>
+        <ul>
+          <li><strong>Wszystkie pytania</strong> - przegląd wszystkich pytań i twoich odpowiedzi</li>
+          <li><strong>Błędne odpowiedzi</strong> - tylko pytania, na które odpowiedziałeś błędnie</li>
+        </ul>
       `;
     }
     
