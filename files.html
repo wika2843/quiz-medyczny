@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sprawdzanie plików</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1>Sprawdzanie dostępności plików JSON</h1>
+  <div id="results"></div>
+
+  <script>
+    const filesToCheck = [
+      'test.json',
+      'pytania_1.json',
+      'pytania_2.json',
+      'pytania_3.json'
+      // Możesz dodać więcej plików
+    ];
+
+    const resultsDiv = document.getElementById('results');
+
+    async function checkFiles() {
+      for (const file of filesToCheck) {
+        try {
+          const response = await fetch(file);
+          
+          if (response.ok) {
+            const data = await response.json();
+            resultsDiv.innerHTML += `<p style="color:green">✓ Plik ${file} istnieje i ma poprawny format JSON.</p>`;
+            resultsDiv.innerHTML += `<p>Znaleziono ${data.length} pytań.</p>`;
+            resultsDiv.innerHTML += `<p>Pierwsze pytanie: ${data[0].tresc}</p>`;
+          } else {
+            resultsDiv.innerHTML += `<p style="color:red">✗ Plik ${file} nie istnieje (${response.status}).</p>`;
+          }
+        } catch (error) {
+          resultsDiv.innerHTML += `<p style="color:red">✗ Błąd przy sprawdzaniu pliku ${file}: ${error.message}</p>`;
+        }
+      }
+    }
+
+    checkFiles();
+  </script>
+</body>
+</html>
