@@ -27,7 +27,7 @@
             "C.samorządy terytorialne",
             "D.administracja państwowa"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "386. Występowanie smolistych stolców u pacjenta, świadczyć może o:",
@@ -37,7 +37,7 @@
             "C.krwawieniu z górnego odcinka przewodu pokarmowego",
             "D.żylakach odbytu"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "555.Diagnoza pielęgniarska jest formułowana po:",
@@ -47,7 +47,7 @@
             "C.rozpoznaniu środowiska",
             "D.wejściu do środowiska"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "54. Najczęstszym powikłaniem kaniulacji naczyń centralnych jest:",
@@ -67,7 +67,7 @@
             "C.nie zawierające węglowodanów",
             "D.odpowiedzi a i b są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "339.Do powikłań nadciśnienia tętniczego zaliczamy:",
@@ -77,7 +77,7 @@
             "C.udar mózgu",
             "D.wszystkie odpowiedzi prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "507.Podajesz lek panu A.K. poza sprawdzeniem bransoletki identyfikacyjnej, musisz potwierdzić jego tożsamość w następujący sposób:",
@@ -107,7 +107,7 @@
             "C.hipertermii złośliwej",
             "D.niedokrwiennym udarze mózgu"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "108. Choroba trzewna jest wywołana:",
@@ -117,7 +117,7 @@
             "C.alergią na gluten",
             "D.nietolerancją glutationu"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "285. Dla noworodka matki z cukrzycą charakterystyczna jest :",
@@ -127,7 +127,7 @@
             "C.hiperkalcemia",
             "D.hiponatremia"
         ],
-        "poprawna": null
+        "poprawna": 1
     },
     {
         "tresc": "117. Środek specjalnego przeznaczenia żywieniowego może być objęty refundacją m. in., gdy:",
@@ -137,7 +137,7 @@
             "C.gdy jest tańszym zamiennikiem innego środka specjalnego przeznaczenia żywieniowego",
             "D.odpowiedzi a i b są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "608. Do zachowań zagrażających zdrowiu należą przede wszystkim:",
@@ -147,7 +147,7 @@
             "C.trwanie w nałogach",
             "D.wszystkie odpowiedzi są prawdziwe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "161.Serce człowieka posiada własny automatyzm. Wynika to z obecności i funkcji:",
@@ -157,7 +157,7 @@
             "C.osierdzia",
             "D.naczyń wieńcowych"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "262.Choroba kesonowa jest skutkiem zatrucia",
@@ -167,7 +167,7 @@
             "C.azotem",
             "D.helem z mieszanki oddechowej"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "582. Na pełną diagnozę pielęgniarską w środowisku składają się diagnozy cząstkowe. Jedną z nich jest diagnoza prognostyczna, która służy do:",
@@ -177,7 +177,7 @@
             "C.przewidywania jak potoczą się losy diagnozowanej rodziny",
             "D.rozpoznania możliwości środowiska w zakresie działań podtrzymujących zdrowie jednostek"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "184. Wymiotom mogą towarzyszyć różne objawy, takie jak:",
@@ -187,7 +187,7 @@
             "C.dreszcze,bladość skóry,zimny pot",
             "D.drgawki"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "284. Do przyczyn żółtaczki fizjologicznej nie należy:",
@@ -197,7 +197,7 @@
             "C.fizjologiczna niedokrwistość",
             "D.krótszy czas przeżycia erytrocytów"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "118. Czas prowadzenia żywienia pozajelitowego obwodowego:",
@@ -227,7 +227,7 @@
             "C.duszność, ból w klatce piersiowej, osłabienie",
             "D.wszystkie powyższe odpowiedzi są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "465.Sprawując opiekę nad pacjentem z depresją pielęgniarka powinna mieć świadomość, że ryzyko popełnienia samobójstwa istnieje:",
@@ -237,7 +237,7 @@
             "C.tylko w dystymii",
             "D.w każdym przypadku depresji"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "609. Proszę określić podstawowe założenia koncepcji „wychowanie zdrowotne”:",
@@ -247,7 +247,7 @@
             "C.gotowość i umiejętność spieszenia z pomocą innym",
             "D.umiejętność udzielania pierwszej pomocy"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "458.Z brakiem zdrowia psychicznego kojarzy się:",
@@ -257,7 +257,7 @@
             "C.potrzebę wpływania na swoje życie",
             "D.umiejętność oszczędzania"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "22. Rurki intubacyjne o podwójnym świetle najczęściej zakładane są w zabiegach:",
@@ -277,7 +277,7 @@
             "C.nietrzymanie zwieraczy",
             "D.depresja"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "232.\tW skład klasycznego trójkąta elementów systemu opieki zdrowotnej wchodzą:",
@@ -287,7 +287,7 @@
             "C.regulator, świadczeniodawcy, płatnik",
             "D.świadczeniobiorcy, regulator, płatnik"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "435. Psychoterapia wglądowa znajduje szczególnie zastosowanie w pomocy osobom z:",
