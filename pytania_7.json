@@ -7,7 +7,7 @@
             "C.zakrztuszenia",
             "D.zapalenia krtani i tchawicy"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "136. Objawem charakterystycznym dla procesu starzenia się układu moczowego jest:",
@@ -17,7 +17,7 @@
             "C.trudności z oddawaniem moczu",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "342.Zapalenie mięśnia sercowego może mieć postać:",
@@ -27,7 +27,7 @@
             "C.spowodowaną zaburzeniami przepływu krwi w naczyniach wieńcowych",
             "D.brak poprawnej odpowiedzi"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "100. Kto przygotowuje mieszanki żywienia pozajelitowego:",
@@ -37,7 +37,7 @@
             "C.odpowiedzi a i b są prawidłowe",
             "D.rodzina"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "383. Badaniem polegającym na dożylnym podaniu środka cieniującego w celu uwidocznienia kielichów, miedniczek nerkowych, moczowodów, pęcherza moczowego oraz wykonaniu serii zdjęć, jest:",
@@ -47,7 +47,7 @@
             "C.cystoskopia",
             "D.urografia"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "457.Które z poniższych zachowań pielęgniarki opiekującej się chorym z zaburzeniami lękowymi jest NIETERAPEUTYCZNE:",
@@ -57,7 +57,7 @@
             "C.podjęcie próby perswazji o braku zasadności lęku",
             "D.zachęcanie chorego do udziału w zajęciach wymagających skupienia, w sytuacji gdy lęk nie jest bardzo nasilony"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "389. Pielęgniarka w opiece nad Pacjentem ze świeżo założoną gastrostomią metodą endoskopową powinna zwrócić uwagę na:",
@@ -67,7 +67,7 @@
             "C.wypadnięcie gastrostomii na skutek zakażenia kanału skórno- żołądkowego",
             "D.prawidłowa odpowiedź a i c"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "391. Elementem przygotowania pacjenta do zabiegu operacyjnego w trybie planowym jest założenie cewnika Foleya do pęcherza moczowego. W przypadku konieczności dalszego pozostawienia cewnika w okresie pooperacyjnym należy:",
@@ -77,7 +77,7 @@
             "C.bezwzględnie podawać profilaktycznie antybiotyk aby zapobiec zakażeniu układu moczowego",
             "D.prawidłowa odpowiedź a i b"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "459.Głównym celem terapii rodzinnej jest:",
@@ -87,7 +87,7 @@
             "C.określenie przeżywanych emocji i ich wpływu na procesy poznawcze i postępowanie",
             "D.zmiana wzajemnych relacji członków rodziny"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "345.Do chorób obturacyjnych zaliczamy (1)__________, przebiegają one ze (2)_______ w (3)__________________.",
@@ -97,7 +97,7 @@
             "C. (1) astmę i przewlekłą obturacyjną chorobę płuc; (2) zmniejszeniem światła; (3) oskrzelach",
             "D.(1) zawał mięśnia sercowego i miażdżycę; (2) zwiększeniem światła; (3) naczyniach wieńcowych"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "588. Dobro osobiste człowieka takie jak zdrowie pozostaje przede wszystkim pod ochroną prawną:",
@@ -107,7 +107,7 @@
             "C.prawa cywilnego niezależnie od ochrony przewidzianej w innych przepisach prawa",
             "D.rozporządzeń Ministra Zdrowia"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "374. Złamanie typu” zielonej gałązki” to uraz charakterystyczny dla wieku dziecięcego. Wskaż zdanie prawdziwe:",
@@ -117,7 +117,7 @@
             "C.to złamanie podokostnowe, gdzie nie dochodzi przerwania do relatywnie grubej okostnej, ale często pojawia się przemieszczenie odłamów kostnych, taki rodzaj złamania wymaga zespolenia operacyjnego",
             "D.to złamanie podokostnowe, gdzie nie dochodzi przerwania do relatywnie grubej okostnej, ale często pojawia się przemieszczenie odłamów kostnych, taki rodzaj złamania wymaga zespolenia operacyjnego, którego celem jest zapobiegnięcie zaklinowania odłamów kostnych"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "558. Skład zespołu podstawowej opieki zdrowotnej tworzą:",
@@ -127,7 +127,7 @@
             "C.lekarz POZ, pielęgniarka POZ, położna POZ",
             "D.lekarz rodzinny, pielęgniarka praktyki,  pielęgniarka rodzinna,  położna rodzinna, rehabilitant"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "650.Która z metod pozwala na szybkie wykrywanie ognisk epidemicznych:",
@@ -137,7 +137,7 @@
             "C.wizyty w oddziałach, przegląd badań mikrobiologicznych, informacje przekazywane przez personel oddziałów",
             "D.analiza wyników badań mikrobiologicznych środowiska szpitalnego"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "590. Czy pielęgniarka może orzekać o rodzaju i zakresie świadczeń opiekuńczo -pielęgnacyjnych w pełnym zakresie:",
@@ -147,7 +147,7 @@
             "C.może",
             "D.tylko za zgodą lekarza"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "15.Fałd skórny pokrywający żołądź prącia nazywamy:",
@@ -167,7 +167,7 @@
             "C.szkody mającej charakter majątkowy lub niemajątkowy",
             "D.zdarzenia wyrządzającego szkodę, mającego postać działania lub zaniechania, szkody mającej charakter majątkowy i niemajątkowy oraz związku przyczynowego pomiędzy powyższym zdarzeniem a szkodą"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "301. Zapobieganie zespołowi popunkcyjnemu polega na:",
@@ -177,7 +177,7 @@
             "C.utrzymaniu pacjenta w pozycji leżącej przez 12 godzin po badaniu, podaży dużej ilości płynów",
             "D.utrzymaniu pacjenta w pozycji leżącej przez 24 godziny po badaniu, podaży dużej ilości płynów"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "58. Hipercapnia to:",
@@ -187,7 +187,7 @@
             "C.wysokie stężenie karboksyhemoglobiny",
             "D.wysokie stężenie potasu w surowicy"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "418. Do zadań diagnostycznych pielęgniarki wobec pacjenta z białaczką należy rozpoznanie stanu w zakresie:",
@@ -207,7 +207,7 @@
             "C.przyjmować postawę autorytarną i wygłaszać oficjalne poglądy na temat choroby psychicznej",
             "D.wszystkie odpowiedzi są prawdziwe"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "462.Prawidłowe komunikowanie się z pacjentem wypowiadającym urojenia polega na:",
@@ -217,7 +217,7 @@
             "C.przedstawieniu własnego obrazu świata po wysłuchaniu chorego",
             "D.zachęcaniu chorego do ujawniania przeżyć i podjęcia próby odwrócenia od nich uwagi chorego"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "245. \tPielęgniarka może założyć praktykę zawodową:",
@@ -227,7 +227,7 @@
             "C.po zdaniu egzaminu przed komisją w Okręgowej Izbie Pielęgniarskiej",
             "D.żadna z powyższych odpowiedzi nie jest poprawna"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "24. Prosta łyżka do laryngoskopu to łyżka:",
@@ -237,7 +237,7 @@
             "C.Macintosha",
             "D.Lasera"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "520.Pacjentowi zlecono płukanie ucha z powodu obecności woskowiny. Jaką temperaturę powinien posiadać płyn przygotowany przez pielęgniarkę do płukania:",
@@ -247,7 +247,7 @@
             "C.35°C",
             "D.40 °C"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "653.Bielizna pościelowa po izolacji pacjenta z Clostridioides difficile jest:",
@@ -257,7 +257,7 @@
             "C.nie nadaje się do prania należy ją wyrzucić",
             "D.należy ja spalić"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "573. Dawcami opieki w procesie pielęgnowania pacjenta w środowisku domowym są:",
@@ -267,7 +267,7 @@
             "C.sam pacjent",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "93. Zalecany udział białka w diecie niemowląt i dzieci do lat dwóch wg norm żywienia dla populacji",
@@ -277,7 +277,7 @@
             "C.jest równy zalecanej ilości białka dla dzieci powyżej 2 lat oraz młodzieży",
             "D.powyżej 20%"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "188. Skrót NOP oznacza:",
@@ -287,7 +287,7 @@
             "C.niebezpieczny objaw pachwinowy",
             "D.nieskuteczne oznaczenie przedszczepionkowe"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "563. Cechami procesu pielęgnowania są:",
@@ -297,6 +297,6 @@
             "C.dynamika i logiczność",
             "D.wszystkie wyżej wymienione"
         ],
-        "poprawna": 3
+        "poprawna": 4
     }
 ]
