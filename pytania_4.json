@@ -7,7 +7,7 @@
             "C.pacjentów u których w posiewie moczu jest powyżej 10 do 5 CFU/ml",
             "D.prawidłowe odpowiedzi b i c"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "387. Pacjent uczulony na Dolargan i Penicylinę, po zabiegu operacyjnym wymaga podania leku przeciwbólowego. Wskaż leki możliwe do podania:",
@@ -57,7 +57,7 @@
             "C.stawy skroniowo-żuchwowe",
             "D.stawy skroniowo-żuchwowe i ciemiączko tylne"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "644.W przypadku drobnoustroju Clostidioides difficile zalecanym środkiem do dezynfekcji są:",
@@ -67,7 +67,7 @@
             "C.preparaty działające na spory (formy przetrwalnikowe drobnoustrojów)",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "579. Pielęgniarstwo rodzinne jest działem pielęgniarstwa w podstawowej opiece zdrowotnej obejmującym opieką rodzinę:",
@@ -77,7 +77,7 @@
             "C.poszczególnych jej członków w sytuacji zdrowia i choroby w środowisku ich życia oraz w warunkach ambulatoryjnych",
             "D.w sytuacji zdrowia i zagrożenia chorobą w środowisku zamieszkania i pracy"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "164.Podstawową jednostką funkcjonalną nerki jest:",
@@ -97,7 +97,7 @@
             "C.ARDS",
             "D.MODS"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "251. Zgodnie z aktualnymi przepisami dobowa norma czasu na wypoczynek wynosi co najmniej:",
@@ -117,7 +117,7 @@
             "C.uszkodzenia ściany naczynia (skutek urazu zewnętrznego czy wewnętrznego np. podczas cewnikowania naczyń lub zabiegu operacyjnego)",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "180. Jednym z podstawowych zadań wymienionych w standardach postępowania pielęgniarki szkolnej jest:",
@@ -137,7 +137,7 @@
             "C.stosowanie procedur pielęgniarskich",
             "D.stosowanie wszystkich powyższych"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "518.Pielęgniarka zakłada cewnik do pęcherza moczowego u pacjenta, u którego wystąpiło duże zaleganie moczu. Aby nie spowodować wystąpienia tamponady pęcherza moczowego, pielęgniarka jednorazowo odprowadzi:",
@@ -147,7 +147,7 @@
             "C.900 – 1000 ml moczu",
             "D.1000 – 1200 ml moczu"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "166.Pomiar ciśnienia tętniczego u pacjentów ambulatoryjnych wykonujemy najczęściej:",
@@ -157,7 +157,7 @@
             "C.na lewym przedramieniu, zapinając mankiet poniżej dołu łokciowego, na wysokości pnia płucnego",
             "D.na lewym udzie, zapinając mankiet poniżej stawu biodrowego, na wyrskości tętnicy ramiennej"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "397. Opis sylwetki psychofizycznej pacjenta powinien zawierać:",
@@ -167,7 +167,7 @@
             "C.zakres koniecznych do wykonania zadań, ocenę wiedzy chorego na temat schorzenia, możliwe do realizacji obszary edukacji",
             "D.opis stanu fizycznego i psychicznego, warunków socjoekonomicznych, trybu życia, rozpoznanych potrzeb i problemów chorego"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "61.Refleksja jako technika w wywiadzie jest stosowana w celu:",
@@ -177,7 +177,7 @@
             "C.utrzymania szybkich reakcji na zachowanie drugiej osoby",
             "D.przedstawienia wyniku analizy wypowiedzi drugiej osoby"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "260.Jaki poziom natężenia infradźwięków nie oddziałuje negatywnie na organizm człowieka",
@@ -187,7 +187,7 @@
             "C.80-120 dB",
             "D.120-140 dB"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "196. Główne przyczyny bólów brzucha u dzieci to:",
@@ -197,7 +197,7 @@
             "C.zakażenie układu moczowego, zapalenie wyrostka robaczkowego",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "35. Zbyt wąski mankiet w czasie pomiaru ciśnienia tętniczego metodą pośrednią spowoduje, iż pomiar będzie:",
@@ -207,7 +207,7 @@
             "C. zaniżony lub adekwatny, w zależności od ułożenia kończyny",
             "D.nie będzie różnicy w pomiarze"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "315. W celu zmniejszenia ryzyka omdlenia/upadku u pacjentów hipotonią ortostatyczną czego NIE należy zalecić pacjentowi:",
@@ -217,7 +217,7 @@
             "C.wypicie ok. 2 szklanek płynów przed wstaniem z łóżka",
             "D.przyjęcie najpierw pozycji siedzącej przez 5-10 minut przed wstaniem"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "29. Nadmierne przygięcie głowy u pacjenta poddawanego zabiegowi neurochirurgicznemu w pozycji siedzącej, może być przyczyną:",
@@ -227,7 +227,7 @@
             "C.niedokrwienia rdzenia kręgowego",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "254. Wskaż, które z poniższych stwierdzeń określa korzyść dla pracodawcy z prawidłowo przeprowadzonego procesu adaptacji pielęgniarki:",
@@ -237,7 +237,7 @@
             "C.zmniejszenie fluktuacji związanej z brakiem przystosowania do miejsca pracy",
             "D.odpowiedź a i c jest prawidłowa"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "177. Wskaż zdanie prawdziwe:",
@@ -247,7 +247,7 @@
             "C. W obu przypadkach stolec jest krwisty",
             "D.Wszystkie odpowiedzi są błędne"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "324. Chory na padaczkę musi wiedzieć, że powinien:",
@@ -257,7 +257,7 @@
             "C.prowadzić uregulowanego trybu życia",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "267.Kosteczki słuchowe są ułożone (zaczynając od zewnątrz) w następującej kolejności",
@@ -267,7 +267,7 @@
             "C.kowadełko, strzemiączko, młoteczek",
             "D.młoteczek, strzemiączko, kowadełko"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "344.Wirusowe zapalenie wątroby, na które w szczególności narażeni są pracownicy ochrony zdrowia to:",
@@ -277,7 +277,7 @@
             "C.WZW B; którego przyczyną jest wirus zapalenia wątroby typu B",
             "D.WZW A; którego przyczyną jest wirus hepatotropowy typu H"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "114. Dieta zalecana w chorobach sercowo-naczyniowych, w tym nadciśnieniu tętniczym to:",
@@ -297,6 +297,6 @@
             "C.oglądanie, palpacja, opukiwanie, osłuchiwanie",
             "D.oglądanie, osłuchiwanie, opukiwanie, palpacja"
         ],
-        "poprawna": 3
+        "poprawna": 4
     }
 ]
