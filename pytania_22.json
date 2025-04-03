@@ -7,7 +7,7 @@
             "C.nagłym parciem na mocz",
             "D.naglącym nietrzymaniem moczu"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "104. Czynniki nasilające chorobę refluksową żołądka:",
@@ -17,7 +17,7 @@
             "C.spożywanie posiłków w szybkim tempie",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "583. Sposób finansowania podstawowej opieki zdrowotnej w Polsce oparty jest na:",
@@ -37,7 +37,7 @@
             "C.społeczność lokalną",
             "D.wszystkie odpowiedzi są prawdziwe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "601. Zgoda na zabieg jako czynność prawna może być dokonana:",
@@ -57,7 +57,7 @@
             "C.surowe owoce i jarzyny",
             "D.mięsa tłustych ryb i drobiu"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "319. Objawami niepożądanymi stosowania leków immunomodulacyjnych drogą iniekcji w terapii stwardnienia rozsianego są wszystkie poniższe, z WYJĄTKIEM:",
@@ -67,7 +67,7 @@
             "C.uczucia ucisku w klatce piersiowej",
             "D.biegunki, nudności i wymiotów"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "639.Czynnikiem predysponującym do wystąpienia zakażeń krwi w szpitalu jest:",
@@ -117,7 +117,7 @@
             "C.choroba psychiczna",
             "D.choroba Alzheimera"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "505.Pielęgniarka, sprawdzając poziom leku w surowicy krwi, powinna pobrać próbkę krwi:",
@@ -127,7 +127,7 @@
             "C.2 godziny po podaniu leku",
             "D.kiedy lek osiągnie w surowicy krwi plateau, zwykle wcześnie rano"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "288. Do oceny ciężkości zaburzeń oddychania u noworodków służy skala:",
@@ -137,7 +137,7 @@
             "C.Silvermanna",
             "D.odpowiedzi b i c są prawidłowe"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "146. Deontologia pielęgniarska jest nauką o:",
@@ -147,7 +147,7 @@
             "C.autorytetach moralnych pielęgniarki",
             "D.wartościach materialnych"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "30. Środkiem zwiotczającym z wyboru u chorego z mocznicą jest:",
@@ -157,7 +157,7 @@
             "C.atrakurium",
             "D.miwakurium"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "536. W wyniku sterylizacji dochodzi do niszczenia:",
@@ -167,7 +167,7 @@
             "C.niektórych drobnoustrojów z formami przetrwalnikowymi",
             "D.wszystkich drobnoustrojów z formami przetrwalnikowymi"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "126. Jedną z najczęściej wykorzystywanych w geriatrii narzędzi pomiarowych do oceny podstawowych czynności życia codziennego jest:",
@@ -177,7 +177,7 @@
             "C.skala GDS",
             "D.skala IADL"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "10.W sercu występują zastawki, będące strukturami uniemożliwiającymi mieszanie się krwi pomiędzy jamami serca. Zastawka mitralna (dwudzielna) występuje:",
@@ -197,7 +197,7 @@
             "C.przełom tarczycowy",
             "D.prawidłowa odpowiedź a i b"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "223.Misja organizacji to:",
@@ -207,17 +207,17 @@
             "C.wyobrażenie roli i miejsca zakładu w otoczeniu",
             "D.charakterystyczne i wyróżniające ją wśród innych organizacji powołanie, które określa racje jej istnienia w otoczeniu społecznym i gospodarczym w ujęciu ogólnym"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
-        "tresc": "226.Obecnie pielęgniarka coraz częściej w swojej pracy zostaje zmuszona \ndo zarządzania czasem w następujący sposób:",
+        "tresc": "226.Obecnie pielęgniarka coraz częściej w swojej pracy zostaje zmuszona do zarządzania czasem w następujący sposób:",
         "odpowiedzi": [
             "A.zlecenia lekarskie wykonuje w pierwszej kolejności",
             "B.wartościuje, które czynności może wykonać później, a które musi zrealizować natychmiast",
             "C.nie bierze pod uwagę poleceń pielęgniarki/ położnej oddziałowej",
             "D.prawidłowe są odpowiedzi a i c"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "240. Punktem wyjścia analizy SWOT jest analiza:",
@@ -227,7 +227,7 @@
             "C.siły, słabości, szans i zagrożeń organizacji",
             "D.siły, szans i rozwoju"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "512.Lekarz zlecił podanie pacjentowi leku w postaci maści do obu oczu 1 raz dziennie, bez wskazania, o jakiej porze ma być podany. Kiedy zaaplikujesz lek:",
@@ -237,7 +237,7 @@
             "C.po południu",
             "D.wieczorem"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "201.Etapy prawidłowego procesu pielęgnowania. Zaznacz właściwą kolejność:",
@@ -247,6 +247,6 @@
             "C.cel interwencji pielegniarskiej;plan;ocena",
             "D.ocena,postawienie diagnozy pielegniarskiej"
         ],
-        "poprawna": 0
+        "poprawna": 1
     }
 ]
