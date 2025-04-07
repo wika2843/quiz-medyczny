@@ -7,7 +7,7 @@
             "C.jest mężczyzną po 45 roku życia",
             "D.w danym roku kalendarzowym ma 45 lat, jest palaczem, a BMI = 32,8"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "592. Gdzie sformułowany jest wykaz produktów leczniczych oraz środków pomocniczych do stosowania których są uprawnione pielęgniarki samodzielnie bez zlecenia lekarskiego:",
@@ -17,7 +17,7 @@
             "C.w uchwale Naczelnej Rady Pielęgniarek i Położnych",
             "D.w uchwale Izby Lekarskiej"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "523.Gdy u pacjenta wystąpi gorączka, pielęgniarka podejmie następujące działania (pytanie wielokrotnego wyboru, zaznacz wszystkie prawidłowe odpowiedzi):",
@@ -27,7 +27,7 @@
             "C.wykona kąpiel chłodzącą",
             "D.zaproponuje pacjentowi płyny do picia"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "532. Prawidłowa wartość wskaźnika BMI u zdrowej dorosłej osoby powinna mieścić się w granicach:",
@@ -37,7 +37,7 @@
             "C.18,5 – 24,9 kg/m²",
             "D.30,0 – 39,9 kg/m²"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "416. Aby opisać indywidualną rzeczywistą sylwetkę psychofizyczną pacjenta z chorobą nadciśnieniową pielęgniarka ocenia go w kierunku występowania:",
@@ -57,7 +57,7 @@
             "C.osiągnięcie wysokiego stężenia białka w osoczu, którego nerki nie są w stanie już resorbować; powoduje występowanie białkomoczu",
             "D.osiągnięcie wysokiego stężenia glukozy w osoczu, którego nerki nie są w stanie już resorbować; powoduje występowanie glukozurii"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "597. Pielęgniarka może odmówić uczestniczenia w eksperymencie medycznym:",
@@ -67,7 +67,7 @@
             "C.w przypadku uzasadnionych wątpliwości , podając przełożonemu przyczynę odmowy na piśmie",
             "D.w przypadku gdy nie posiada odpowiednich kwalifikacji zawodowych"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "81.W czasie badania układu oddechowego opukujemy:",
@@ -77,7 +77,7 @@
             "C.przestrzenie międzyżebrowe",
             "D.płuca"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "587. Władze publiczne zapewniają dostęp do świadczeń opieki zdrowotnej finansowanej ze środków publicznych:",
@@ -87,7 +87,7 @@
             "C.w równy sposób",
             "D.tylko niektórym kategoriom pacjentów"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "618. Warunkiem aktywności obywateli (społeczności lokalnych) w efektywnych działaniach na rzecz własnego zdrowia jest uświadomienie, że:",
@@ -97,7 +97,7 @@
             "C.ludzie są odpowiedzialni za swoje zdrowie i mają możliwości wpływania na jego poziom",
             "D.ludzie mają możliwości wpływania na poziom swego zdrowia i życia"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "445.Kategorią wprowadzoną przez Dorothy Orem było pojęcie:",
@@ -117,7 +117,7 @@
             "C.spowolnienie ruchowe (tzw. bradykinezja),drżenia spoczynkowego, sztywność mięśniowa, zaburzenia słuchu,",
             "D.spowolnienie ruchowe (tzw. bradykinezja), drżenia spoczynkowego, drżenie zamiarowe, niestabilność postawy"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "510.Pacjent ma otrzymać s.c. 16 j.m. insuliny Gensulin R tradycyjną strzykawką. Insulina jest w fiolce w postaci roztworu o objętości 10 ml. Na etykiecie widnieje napis, że w 1 ml jest 40 j.m. leku. Ile leku powinna nabrać do strzykawki pielęgniarka:",
@@ -127,7 +127,7 @@
             "C.0.3 ml",
             "D.0.4 ml"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "120. Co wpływa na rozbieżności w wartościach indeksu glikemicznego w różnych tabelach:",
@@ -137,7 +137,7 @@
             "C.inny skład produktu, przykład chleb",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "212. Aby zapobiec zaparciom u dzieci należy:",
@@ -147,7 +147,7 @@
             "C.zachęcić dziecko do większej aktywności fizycznej",
             "D.wszystkie powyższe odpowiedzi są prawidłowe"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "423. Prawidłowo wyedukowany pacjent z cukrzycą wie, że właściwe proporcje spożycia głównych składników pokarmowych są następujące:",
@@ -167,7 +167,7 @@
             "C.2",
             "D.3"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "606. Kluczowym narzędziem w promocji zdrowia jest:",
@@ -187,7 +187,7 @@
             "C.36 godzin od chwili przyjęcia",
             "D.48 godzin od chwili przyjęcia"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "409. Obserwując pacjenta z podejrzeniem zawału mięśnia sercowego pielęgniarka powinna oceniać pacjenta pod kątem występowania:",
@@ -207,7 +207,7 @@
             "C.samobójstwo może być próbą wołania o pomoc",
             "D.samobójstwo czasem jest wyrazem bezradności i poczucia klęski"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "246.\tNorma czasu pracy dla pracownika medycznego wynosi:",
@@ -217,7 +217,7 @@
             "C.nie ma normy czasu pracy",
             "D.12 h"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "272.Aminokwas, który nie zawiera siarki to:",
@@ -237,7 +237,7 @@
             "C.gorszym rokowaniem co do wyleczenia i dalszego życia",
             "D.zmian chorobowych dotyczących jednego narządu"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "564.. Jedną z cech charakteryzujących pracę pielęgniarki POZ jest:",
@@ -247,7 +247,7 @@
             "C.wysokie znaczenie edukacji zdrowotnej, doradztwo, upodmiotowienie pacjenta, partnerstwo",
             "D.orientacja na zaspokojenie potrzeb podopiecznych"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "155.Tarczyca człowieka należy do układu dokrewnego. Praca tego narządu regulowana jest przez:",
@@ -257,7 +257,7 @@
             "C.kontrolę tylnego płata przysadki mózgowej",
             "D.dodatnie sprzężenie zwrotne z nadnerczy"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "213. Fenyloketonuria to:",
@@ -277,7 +277,7 @@
             "C.fenyloalanina",
             "D.alanina"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "347.Albinizm:",
@@ -287,7 +287,7 @@
             "C.to choroba polegająca na dysfunkcji enzymatycznej, enzymów biorących udział w tworzeniu melaniny",
             "D.brak prawidłowej odpowiedzi"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "36. Podstawowym zabiegiem w tamponadzie serca jest:",
