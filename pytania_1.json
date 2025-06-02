@@ -47,7 +47,7 @@
             "C.bez uzyskania informacji o swoim stanie zdrowia",
             "D.przed uzyskaniem informacji o swoim stanie zdrowia"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "279.Hipertermię rozpoznaje się u noworodka z głęboką temperaturą ciała:",
@@ -97,7 +97,7 @@
             "C. przed kontaktem z pacjentem, przed kontaktem z otoczeniem pacjenta, przed wykonaniem czystej, aseptycznej procedury, po wykonaniu czystej, aseptycznej procedury, po kontakcie z pacjentem",
             "D.przed kontaktem z pacjentem, przed czystą aseptyczną procedurą, po kontakcie z krwią i płynami ustrojowymi, po kontakcie z pacjentem, po opuszczeniu sali pacjenta"
         ],
-        "poprawna": 4
+        "poprawna": 2
     },
     {
         "tresc": "433. W okresie ostrego rzutu RZS pielęgniarka realizuje zadania lecznicze poprzez udział w rehabilitacji stosując wówczas:",
@@ -107,7 +107,7 @@
             "C.ćwiczenia czynne w odciążeniu",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 1
+        "poprawna": 4
     },
     {
         "tresc": "293. Hipoglikemię w pierwszej dobie życia u noworodka ocenia się na poziomie:",
@@ -207,7 +207,7 @@
             "C.objawy otrzewnowe: Blumberga, Rovsinga, Jaworskiego, obrona mięśniowa, odruch kaszlowy",
             "D.wszystkie odpowiedzi prawidłowe"
         ],
-        "poprawna": 1
+        "poprawna": 3
     },
     {
         "tresc": "631.Do wdrożenia i zapewnienia funkcjonowania systemu oceny ryzyka zakażenia związanego z udzielaniem świadczeń zdrowotnych obowiązani są:",
@@ -217,7 +217,7 @@
             "C. kierownicy podmiotów leczniczych",
             "D.wszystkie wyżej wymienione osoby"
         ],
-        "poprawna": 3
+        "poprawna": 4
     },
     {
         "tresc": "425.Pielęgniarka zna przyczyny zwiększonego ryzyka rozwoju stopy cukrzycowej, do których należą:",
@@ -227,7 +227,7 @@
             "C.staw Charcota w wywiadzie",
             "D.wszystkie z wymienionych odpowiedzi są prawidłowe"
         ],
-        "poprawna": 4
+        "poprawna": 1
     },
     {
         "tresc": "263.Biopolimerem jest",
