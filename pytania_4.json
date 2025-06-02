@@ -17,7 +17,7 @@
             "C.Mieszanka Lityczna",
             "D.prawidłowe a i b"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "552. Przed, którym z wymienionych badań podaję się histaminę (środek pobudzający wydzielanie):",
@@ -27,7 +27,7 @@
             "C.zgłębnikowaniem żołądka",
             "D.zgłębnikowaniem dwunastnicy"
         ],
-        "poprawna": 1
+        "poprawna": 3
     },
     {
         "tresc": "566. Czynniki istniejące w rodzinie, które podlegają znacznej, bezpośredniej modyfikacji w  działaniu pielęgniarki POZ mieszczą się głównie w:",
@@ -67,7 +67,7 @@
             "C.preparaty działające na spory (formy przetrwalnikowe drobnoustrojów)",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "579. Pielęgniarstwo rodzinne jest działem pielęgniarstwa w podstawowej opiece zdrowotnej obejmującym opieką rodzinę:",
@@ -177,7 +177,7 @@
             "C.utrzymania szybkich reakcji na zachowanie drugiej osoby",
             "D.przedstawienia wyniku analizy wypowiedzi drugiej osoby"
         ],
-        "poprawna": 1
+        "poprawna": 3
     },
     {
         "tresc": "260.Jaki poziom natężenia infradźwięków nie oddziałuje negatywnie na organizm człowieka",
@@ -297,6 +297,6 @@
             "C.oglądanie, palpacja, opukiwanie, osłuchiwanie",
             "D.oglądanie, osłuchiwanie, opukiwanie, palpacja"
         ],
-        "poprawna": 4
+        "poprawna": 3
     }
 ]
