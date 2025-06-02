@@ -7,7 +7,7 @@
             "C.tętno wzrasta o 10 – 20 uderzeń / min",
             "D.tętno pozostaje bez zmian"
         ],
-        "poprawna": 4
+        "poprawna": 3
     },
     {
         "tresc": "133. Kwalifikacja pacjenta do pielęgniarskiej opieki długoterminowej domowej dokonywana jest za pomocą skali:",
@@ -47,7 +47,7 @@
             "C.podeszły wiek, wrodzone lub nabyte upośledzenie odporności",
             "D.wszystkie odpowiedzi są prawidłowe"
         ],
-        "poprawna": 4
+        "poprawna": 1
     },
     {
         "tresc": "106. W chorobie niedokrwiennej serca i przy nadciśnieniu tętniczym należy w diecie zwiększyć:",
@@ -67,7 +67,7 @@
             "C.wyłącznie adrenalina",
             "D.adrenalina i wodorowęglan sodu"
         ],
-        "poprawna": 2
+        "poprawna": 3
     },
     {
         "tresc": "489. Antagoniści kanałów wapniowych to:",
@@ -207,7 +207,7 @@
             "C.zastosować model rehabilitacji B",
             "D.żadna odpowiedź nie jest prawidłowa"
         ],
-        "poprawna": 1
+        "poprawna": 2
     },
     {
         "tresc": "60. Prawidłowa wartość pH krwi tętniczej wynosi:",
